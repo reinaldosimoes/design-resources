@@ -1,4 +1,4 @@
-# Design Resources (FREE)
+# Design Resources
 
 ## Fonts
 
@@ -38,3 +38,33 @@
 ### Music
 
 - [Free Stock Music](https://www.free-stock-music.com)
+
+## Illustrations
+
+- [DrawKit](https://www.drawkit.io/#products)
+- [Open Peeps](https://www.openpeeps.com)
+- [Open Doodles](https://www.opendoodles.com)
+- [Illustrations](https://illustrations.co)
+- [Blush](https://blush.design)
+- [Humaaans](https://www.humaaans.com)
+- [Undraw](https://undraw.co/illustrations)
+- [Lukas Zadam](https://lukaszadam.com/illustrations)
+
+## Vectors
+
+- [Pixabay](https://pixabay.com)
+- [Vecteezy](https://www.vecteezy.com)
+
+## Backgrounds & Patterns
+
+- [The Pattern Library](https://thepatternlibrary.com)
+- [Get Waves](https://getwaves.io)
+- [CSS Gradient](https://cssgradient.io)
+
+## Colors
+
+- [Adobe Color](https://color.adobe.com)
+
+## Prototyping
+
+- [Invision](https://www.invisionapp.com)
