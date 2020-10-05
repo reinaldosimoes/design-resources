@@ -1,6 +1,6 @@
 # Design Resources
 
-A list of free resources to help you build your next project.
+A list of free resources to help you build your next project, regardless if you're a designer or a developer.
 
 ## Fonts
 
