@@ -1,5 +1,7 @@
 # Design Resources
 
+A list of free resources to help you build your next project.
+
 ## Fonts
 
 - [DaFont](https://wwww.dafont.com)
