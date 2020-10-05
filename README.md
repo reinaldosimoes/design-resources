@@ -67,6 +67,7 @@ A list of free resources to help you build your next project, regardless if you'
 
 - [Adobe Color](https://color.adobe.com)
 
-## Prototyping
+## Mockups
 
-- [Invision](https://www.invisionapp.com)
+- [Smart Mockups](https://smartmockups.com)
+- [Screely](https://www.screely.com)
