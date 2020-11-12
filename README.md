@@ -21,6 +21,7 @@ A list of free resources to help you build your next project, regardless if you'
 - [FontAwesome](https://fontawesome.com)
 - [Feather](https://feathericons.com)
 - [Material Design](https://material.io/resources/icons)
+- [Phosphor Icons](https://phosphoricons.com)
 
 ## Assets
 
