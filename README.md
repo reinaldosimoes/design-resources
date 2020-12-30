@@ -2,7 +2,7 @@
 
 A list of free resources to help you build your next project, regardless if you're a designer or a developer.
 
-## Fonts
+## 🔠 Fonts
 
 - [DaFont](https://wwww.dafont.com)
 - [Google Fonts](https://fonts.google.com)
@@ -10,7 +10,7 @@ A list of free resources to help you build your next project, regardless if you'
 - [Font Fabric](https://www.fontfabric.com/free-fonts)
 - [Font Squirrel](https://www.fontsquirrel.com)
 
-## Icons
+## 👤 Icons
 
 - [Icons8](https://icons8.com/icons)
 - [Shaped Fonts](https://shapedfonts.com/iconclub)
@@ -23,14 +23,14 @@ A list of free resources to help you build your next project, regardless if you'
 - [Material Design](https://material.io/resources/icons)
 - [Phosphor Icons](https://phosphoricons.com)
 
-## Assets
+## 💎 Assets
 
-### Images
+### 🌅 Images
 
 - [Unsplash](https://unsplash.com)
 - [Pixabay](https://pixabay.com)
 
-### Videos
+### 🎬 Videos
 
 - [Coverr](https://coverr.co)
 - [Pixabay](https://pixabay.com)
@@ -38,11 +38,11 @@ A list of free resources to help you build your next project, regardless if you'
 - [Mixkit](https://mixkit.co)
 - [Videvo](https://www.videvo.net/stock-video-footage)
 
-### Music
+### 🎸 Music
 
 - [Free Stock Music](https://www.free-stock-music.com)
 
-## Illustrations
+## ✏️ Illustrations
 
 - [DrawKit](https://www.drawkit.io/#products)
 - [Open Peeps](https://www.openpeeps.com)
@@ -53,23 +53,23 @@ A list of free resources to help you build your next project, regardless if you'
 - [Undraw](https://undraw.co/illustrations)
 - [Lukas Zadam](https://lukaszadam.com/illustrations)
 
-## Vectors
+## 📐 Vectors
 
 - [Pixabay](https://pixabay.com)
 - [Vecteezy](https://www.vecteezy.com)
 
-## Backgrounds & Patterns
+## 🌀 Backgrounds & Patterns
 
 - [The Pattern Library](https://thepatternlibrary.com)
 - [Get Waves](https://getwaves.io)
 - [CSS Gradient](https://cssgradient.io)
 
-## Colors
+## 🎨 Colors
 
 - [Adobe Color](https://color.adobe.com)
 - [2 Color Combinations](https://2colors.colorion.co/)
 
-## Mockups
+## ✨ Mockups
 
 - [Smart Mockups](https://smartmockups.com)
 - [Screely](https://www.screely.com)
