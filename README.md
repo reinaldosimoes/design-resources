@@ -23,14 +23,12 @@ A list of free resources to help you build your next project, regardless if you'
 - [Material Design](https://material.io/resources/icons)
 - [Phosphor Icons](https://phosphoricons.com)
 
-## 💎 Assets
-
-### 🌅 Images
+## 🌅 Images
 
 - [Unsplash](https://unsplash.com)
 - [Pixabay](https://pixabay.com)
 
-### 🎬 Videos
+## 🎬 Videos
 
 - [Coverr](https://coverr.co)
 - [Pixabay](https://pixabay.com)
@@ -38,7 +36,7 @@ A list of free resources to help you build your next project, regardless if you'
 - [Mixkit](https://mixkit.co)
 - [Videvo](https://www.videvo.net/stock-video-footage)
 
-### 🎸 Music
+## 🎸 Music
 
 - [Free Stock Music](https://www.free-stock-music.com)
 
