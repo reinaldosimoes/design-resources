@@ -12,6 +12,8 @@ A list of free resources to help you build your next project, regardless if you'
 
 ## 👤 Icons
 
+### Static icons
+
 - [Icons8](https://icons8.com/icons)
 - [Shaped Fonts](https://shapedfonts.com/iconclub)
 - [Lord Icon](https://lordicon.com/free-icons)
@@ -22,6 +24,10 @@ A list of free resources to help you build your next project, regardless if you'
 - [Feather](https://feathericons.com)
 - [Material Design](https://material.io/resources/icons)
 - [Phosphor Icons](https://phosphoricons.com)
+
+### Animated icons
+
+- [Lordicon](https://lordicon.com/)
 
 ## 🌅 Images
 
