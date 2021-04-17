@@ -2,7 +2,7 @@
 
 [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 
-A list of free resources to help you build your next project, regardless if you're a designer or a developer. Feel free to contribute by creating a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) to share new resources that are not currently on the list, or suggest changes to an already existing one. You can find more information [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
+A list of **FREE** resources to help you build your next project, regardless if you're a designer or a developer. Feel free to contribute by creating a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) to share new resources that are not currently on the list, or suggest changes to an already existing one. You can find more information [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
 
 ## 🔠 Fonts
 
