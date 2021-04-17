@@ -4,7 +4,7 @@ Create a new pull request with changes on the [README](https://github.com/reinal
 
 ## Template for a new resource
 
-- [Title](https://wwww.title.com) // Description
+- [Title](https://wwww.title.com) — Description
 
 ## Guidelines
 
