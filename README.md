@@ -4,8 +4,6 @@ A list of free resources to help you build your next project, regardless if you'
 
 ## 🔠 Fonts
 
-In metal typesetting, a font was a particular size, weight and style of a typeface. Each font was a matched set of type, one piece for each glyph, and a typeface consisting of a range of fonts that shared an overall design.
-
 - [DaFont](https://wwww.dafont.com) Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
 - [Google Fonts](https://fonts.google.com) Library of more than a thousand free and open source font families, an interactive web directory for browsing the library, and APIs for using the fonts via CSS and Android.
 - [Use & Modify](https://usemodify.com) Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces. Open source licenses make them free to use and modify.
@@ -13,8 +11,6 @@ In metal typesetting, a font was a particular size, weight and style of a typefa
 - [Font Squirrel](https://www.fontsquirrel.com) Font Squirrel scours the internet for high quality, legitimately free fonts.
 
 ## 👤 Icons
-
-Graphic representation of something, a person or thing that is symbolic or is a noted figure.
 
 ### Static icons
 
@@ -34,10 +30,9 @@ Graphic representation of something, a person or thing that is symbolic or is a 
 
 ## 🌅 Images
 
-A representation of the external form of a person or thing in art.
-
 - [Unsplash](https://unsplash.com) Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 - [Pixabay](https://pixabay.com) Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music.
+- [Random User Generator](randomuser.me) A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
 
 ## 🎬 Videos
 
@@ -69,16 +64,15 @@ A representation of the external form of a person or thing in art.
 
 ## 🌀 Backgrounds & Patterns
 
-- [The Pattern Library](https://thepatternlibrary.com)
-- [Get Waves](https://getwaves.io)
-- [CSS Gradient](https://cssgradient.io)
+- [Get Waves](https://getwaves.io) Generates a nice SVG file of a wave, which can be configured to your liking.
+- [CSS Gradient](https://cssgradient.io) Generates CSS code for gradients with a configurable UI.
 
 ## 🎨 Colors
 
-- [Adobe Color](https://color.adobe.com)
-- [2 Color Combinations](https://2colors.colorion.co/)
+- [Adobe Color](https://color.adobe.com) Probably the best tool around when it comes to creating a color theme for your application. Your can create yours or check palettes uploaded by other users.
+- [2 Color Combinations](https://2colors.colorion.co/) Provides you different color combinations to be used on your application.
 
 ## ✨ Mockups
 
-- [Smart Mockups](https://smartmockups.com)
-- [Screely](https://www.screely.com)
+- [Smart Mockups](https://smartmockups.com) Quickly create mockups using already built templates.
+- [Screely](https://www.screely.com) Instantly Turn a Screenshot into a Browser Mockup.
