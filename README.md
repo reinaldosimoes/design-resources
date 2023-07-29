@@ -2,7 +2,11 @@
 
 [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 
-Discover a comprehensive collection of resources, catering to both designers and developers, to aid you in crafting your upcoming projects. Your contributions are warmly welcomed! Feel empowered to create a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) and share any fresh resources not yet featured on the list or propose improvements to existing ones. You can find more information on how to contribute [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
+Discover a comprehensive collection of resources, catering to both designers and developers, to aid you in crafting your upcoming projects.
+
+Your contributions are warmly welcomed! Feel empowered to create a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) and share any fresh resources not yet featured on the list or propose improvements to existing ones.
+
+You can find more information on how to contribute [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
 
 ## Fonts
 
