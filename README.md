@@ -30,7 +30,7 @@ Font Squirrel scours the internet for high quality, legitimately free fonts.
 
 Curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
 
-## Static Icons
+## Icons
 
 ### [Icons8](https://icons8.com/icons)
 
@@ -68,7 +68,11 @@ Material Icons are available in five styles and a range of downloadable sizes an
 
 Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. · activity · airplane · airplane-in-flight · airplane-landing · airplane-takeoff.
 
-## Animated Icons
+## Lottie animations
+
+### [LottieFiles](https://lottiefiles.com/featured)
+
+Lottie's marketplace.
 
 ### [Lordicon](https://lordicon.com/free-icons)
 
