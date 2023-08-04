@@ -88,6 +88,10 @@ Powerful animated icon library with 1000+ free and premium animated Lottie anima
 
 Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
+### [Pexels](https://www.pexels.com/)
+
+Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.
+
 ### [Pixabay](https://pixabay.com)
 
 Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music.
