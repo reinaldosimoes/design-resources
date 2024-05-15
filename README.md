@@ -13,7 +13,7 @@ You can find more information on how to contribute [here](https://github.com/rei
 - [Fonts](#fonts)
 - [Icons](#icons)
 - [Lottie Animations](#lottie-animations)
-- [Images](#images)
+- [Photos](#photos)
 - [Videos](#videos)
 - [Music](#music)
 - [Illustrations](#illustrations)
@@ -139,7 +139,7 @@ A library of animated icons available in Lottie format, ideal for enhancing user
 ### [LottieFiles Community](https://lottiefiles.com/community)
 A community-driven collection of free animations for various design projects.
 
-## Images
+## Photos
 
 ### [Unsplash](https://unsplash.com)
 Beautiful, free images and photos that you can download and use for any project. Better than any royalty-free or stock photos.
