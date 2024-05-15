@@ -1,6 +1,6 @@
 # Design Resources
 
-[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
 
 Discover a comprehensive collection of resources, catering to both designers and developers, to aid you in crafting your upcoming projects.
 
