@@ -77,6 +77,8 @@ A French digital type foundry that publishes open-source fonts for free.
 
 A library of high-quality, open-source fonts for all languages and scripts.
 
+[Back to Top](#table-of-contents)
+
 ## Icons
 
 ### [Icons8](https://icons8.com/icons)
@@ -135,6 +137,8 @@ Official open-source SVG icon library for Bootstrap.
 
 A pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 
+[Back to Top](#table-of-contents)
+
 ## Lottie animations
 
 ### [LottieFiles](https://lottiefiles.com/featured)
@@ -172,6 +176,8 @@ A library of animated icons available in Lottie format, ideal for enhancing user
 ### [LottieFiles Community](https://lottiefiles.com/community)
 
 A community-driven collection of free animations for various design projects.
+
+[Back to Top](#table-of-contents)
 
 ## Photos
 
@@ -227,6 +233,8 @@ Vintage photos from public archives free of known copyright restrictions.
 
 Beautiful stock photos for personal and commercial use.
 
+[Back to Top](#table-of-contents)
+
 ## Videos
 
 ### [Coverr](https://coverr.co)
@@ -276,6 +284,8 @@ A collection of cinemagraphs (still photos with minor repeated movement).
 ### [Mazwai](https://mazwai.com)
 
 Curated high-quality stock video footage for free use.
+
+[Back to Top](#table-of-contents)
 
 ## Music
 
@@ -335,6 +345,8 @@ A subscription-based service providing royalty-free music for video producers.
 
 Exclusive royalty-free music for use in videos, podcasts, and other media projects.
 
+[Back to Top](#table-of-contents)
+
 ## Illustrations
 
 ### [DrawKit](https://www.drawkit.io/#products)
@@ -393,6 +405,8 @@ A collection of free vector illustrations for commercial use.
 
 Illustrations for busy designers and startups.
 
+[Back to Top](#table-of-contents)
+
 ## Vectors
 
 ### [Pixabay](https://pixabay.com)
@@ -434,6 +448,8 @@ A curated collection of free vector graphics.
 ### [Stockio](https://www.stockio.com)
 
 Free vectors, photos, videos, and fonts for personal and commercial use.
+
+[Back to Top](#table-of-contents)
 
 ## Backgrounds & Patterns
 
@@ -500,6 +516,8 @@ A collection of customizable SVG-based backgrounds.
 ### [Hero Patterns](http://www.heropatterns.com)
 
 A collection of repeatable SVG background patterns for your web projects.
+
+[Back to Top](#table-of-contents)
 
 ## Colors
 
@@ -574,6 +592,8 @@ A curated list of color palettes based on masterpieces of world art.
 ### [Color Leap](https://colorleap.app)
 
 Travel through time with color palettes inspired by different historical periods.
+
+[Back to Top](#table-of-contents)
 
 ## Mockups
 
@@ -653,6 +673,8 @@ A curated collection of free mockups for designers.
 
 High-quality mockup templates for various design needs.
 
+[Back to Top](#table-of-contents)
+
 ## Design Systems
 
 ### [Material Design](https://material.io/design)
@@ -714,6 +736,8 @@ A collection of resources and tools for creating design systems.
 ### [Elastic UI](https://elastic.github.io/eui)
 
 Elastic's design system for creating engaging user experiences.
+
+[Back to Top](#table-of-contents)
 
 ## UI Kits
 
@@ -793,6 +817,8 @@ Free and premium UI kits, templates, and design resources for various design pro
 
 A platform for sharing UI kits, templates, and design resources.
 
+[Back to Top](#table-of-contents)
+
 ## Design Inspiration
 
 ### [Behance](https://www.behance.net)
@@ -866,6 +892,8 @@ A platform for showcasing and discovering creative web design and development.
 ### [Minimal Gallery](https://minimal.gallery)
 
 A showcase of minimalist web design and inspiration.
+
+[Back to Top](#table-of-contents)
 
 ## Design Blogs
 
@@ -953,6 +981,8 @@ A blog offering articles, news, and resources on technology, design, and innovat
 
 A blog featuring articles, tutorials, and resources on web design, development, and inspiration.
 
+[Back to Top](#table-of-contents)
+
 ## Learning Resources
 
 ### [Coursera](https://www.coursera.org)
@@ -1039,6 +1069,8 @@ Online tutorials and courses on web design, development, and creative skills.
 
 A collection of tutorials and resources on web design, development, and best practices.
 
+[Back to Top](#table-of-contents)
+
 ## Prototyping Tools
 
 ### [Figma](https://www.figma.com)
@@ -1124,6 +1156,8 @@ A simple and minimalistic wireframing tool for creating low-fidelity prototypes.
 ### [MockFlow](https://www.mockflow.com)
 
 A prototyping tool for creating wireframes, mockups, and interactive prototypes.
+
+[Back to Top](#table-of-contents)
 
 ## Collaboration Tools
 
@@ -1235,6 +1269,8 @@ A project management tool for organizing and tracking tasks and projects.
 
 A collaboration platform for team communication and project management.
 
+[Back to Top](#table-of-contents)
+
 ## Design Contests
 
 ### [99designs](https://99designs.com)
@@ -1340,6 +1376,8 @@ A platform for design contests, connecting designers with clients.
 ### [Coroflot](https://www.coroflot.com)
 
 A platform for design contests, connecting designers with clients.
+
+[Back to Top](#table-of-contents)
 
 ## Design Tools
 
