@@ -525,6 +525,9 @@ A collection of repeatable SVG background patterns for your web projects.
 
 ## Colors
 
+### [Colorlab](https://getcolorlab.com)
+Find your perfect Color Palette easily! Explore, create, and save beautiful colors perfect for any project. Whether you’re working on your website or refreshing a mobile app design, Colorlab is the tool you need to get colors right!
+
 ### [Adobe Color](https://color.adobe.com)
 
 Probably the best tool around when it comes to creating a color theme for your application. You can create yours or check palettes uploaded by other users.
