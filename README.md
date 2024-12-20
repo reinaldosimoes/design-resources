@@ -81,6 +81,10 @@ A French digital type foundry that publishes open-source fonts for free.
 
 A library of high-quality, open-source fonts for all languages and scripts.
 
+### [CLT](https://www.collletttivo.it/typefaces/)
+
+Collletttivo typefaces are released under SIL Open Font License (OFL). Remember to credit Collletttivo or the original designer in the best way you can afford.
+
 [Back to Top](#table-of-contents)
 
 ## Icons
