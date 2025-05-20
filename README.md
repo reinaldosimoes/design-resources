@@ -361,6 +361,10 @@ Exclusive royalty-free music for use in videos, podcasts, and other media projec
 
 Free vector SVG illustrations for you to use on your next project, no attribution required.
 
+### [thiings.co](https://www.thiings.co/things)
+
+Thiings.co is a new project by Charlie Clark that lets you showcase the things that make you, you.
+
 ### [Open Peeps](https://www.openpeeps.com)
 
 Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, and user flows.
