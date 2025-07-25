@@ -833,6 +833,10 @@ Free and premium UI kits, templates, and design resources for various design pro
 
 A platform for sharing UI kits, templates, and design resources.
 
+### [HTMLrev](https://htmlrev.com)
+
+Free HTML CSS templates, UI libraries and boilerplates.
+
 [Back to Top](#table-of-contents)
 
 ## Design Inspiration
@@ -849,6 +853,10 @@ A community for showcasing user-made artwork, including web design, graphic desi
 
 A showcase of the best web design, featuring awards and recognition for creativity and innovation.
 
+### [Websitevice.com](https://websitevice.com)
+
+Website examples for real world design inspiration.
+
 ### [SiteInspire](https://www.siteinspire.com)
 
 A showcase of the best web design inspiration, featuring websites across various industries.
@@ -860,10 +868,6 @@ A platform recognizing and awarding the best web design and development.
 ### [Designspiration](https://www.designspiration.com)
 
 A platform for sharing and discovering design inspiration across various disciplines.
-
-### [The Design Inspiration](http://thedesigninspiration.com)
-
-A curated collection of design inspiration, including graphic design, web design, and photography.
 
 ### [One Page Love](https://onepagelove.com)
 
