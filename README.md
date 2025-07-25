@@ -145,6 +145,10 @@ Official open-source SVG icon library for Bootstrap.
 
 A pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 
+### [AutoDraw](https://www.autodraw.com)
+
+A Google AI tool that turns rough sketches into clean, editable icons using machine learning.
+
 [Back to Top](#table-of-contents)
 
 ## Lottie animations
@@ -241,6 +245,18 @@ Vintage photos from public archives free of known copyright restrictions.
 
 Beautiful stock photos for personal and commercial use.
 
+### [Remove.bg](https://www.remove.bg)
+
+Automatically removes backgrounds from photos — limited free credits.
+
+### [Cleanup.pictures](https://cleanup.pictures)
+
+Uses AI to remove objects or imperfections from photos — basic free version available.
+
+### [Let's Enhance](https://letsenhance.io)
+
+Upscale and enhance low-quality photos using AI — limited free credits, paid plans for bulk.
+
 [Back to Top](#table-of-contents)
 
 ## Videos
@@ -292,6 +308,10 @@ A collection of cinemagraphs (still photos with minor repeated movement).
 ### [Mazwai](https://mazwai.com)
 
 Curated high-quality stock video footage for free use.
+
+### [Runway ML](https://runwayml.com)
+
+AI-powered video editing and generative media tools — includes free limited projects.
 
 [Back to Top](#table-of-contents)
 
@@ -352,6 +372,10 @@ A subscription-based service providing royalty-free music for video producers.
 ### [HookSounds](https://www.hooksounds.com)
 
 Exclusive royalty-free music for use in videos, podcasts, and other media projects.
+
+### [Mubert](https://mubert.com)
+
+Generates royalty-free music via AI — free tier available for personal use.
 
 [Back to Top](#table-of-contents)
 
@@ -417,6 +441,14 @@ A collection of free vector illustrations for commercial use.
 
 Illustrations for busy designers and startups.
 
+### [DALL·E](https://openai.com/index/dall-e-3)
+
+Text-to-image generation by OpenAI — includes monthly free credits for ChatGPT users.
+
+### [Illustroke](https://control.rocks)
+
+AI tool that generates SVG illustrations — preview for free, download requires payment.
+
 [Back to Top](#table-of-contents)
 
 ## Vectors
@@ -460,6 +492,10 @@ A curated collection of free vector graphics.
 ### [Stockio](https://www.stockio.com)
 
 Free vectors, photos, videos, and fonts for personal and commercial use.
+
+### [Illustroke](https://illustroke.com)
+
+AI-generated vector (SVG) illustrations — free previews, paid downloads.
 
 [Back to Top](#table-of-contents)
 
@@ -609,6 +645,10 @@ A curated list of color palettes based on masterpieces of world art.
 
 Travel through time with color palettes inspired by different historical periods.
 
+### [Khroma](https://www.khroma.co)
+
+AI color palette generator trained on your preferences.
+
 [Back to Top](#table-of-contents)
 
 ## Mockups
@@ -688,6 +728,10 @@ A curated collection of free mockups for designers.
 ### [Template.net](https://www.template.net)
 
 High-quality mockup templates for various design needs.
+
+### [Uizard](https://uizard.io)
+
+Create mockups from text or sketches — free tier includes limited projects.
 
 [Back to Top](#table-of-contents)
 
@@ -1088,6 +1132,22 @@ Online tutorials and courses on web design, development, and creative skills.
 ### [Google Web Fundamentals](https://developers.google.com/web)
 
 A collection of tutorials and resources on web design, development, and best practices.
+
+### [ChatGPT](https://chatgpt.com)
+
+Use the free ChatGPT tier to generate code explanations, design walkthroughs, and idea brainstorming.
+
+### [Claude](https://claude.ai)
+
+Anthropic’s conversational AI great for in-depth learning support, writing help, and summarization.
+
+### [Gemini](https://gemini.google.com)
+
+Google's AI chatbot that integrates with Docs, Sheets, and YouTube — useful for quick design advice and learning workflows.
+
+### [Perplexity AI](https://www.perplexity.ai)
+
+A powerful research assistant that answers with real-time sources — great for finding design tutorials, color theory, UX trends, and tools.
 
 [Back to Top](#table-of-contents)
 
