@@ -853,7 +853,7 @@ A community for showcasing user-made artwork, including web design, graphic desi
 
 A showcase of the best web design, featuring awards and recognition for creativity and innovation.
 
-### [Websitevice.com](https://websitevice.com)
+### [Websitevice](https://websitevice.com)
 
 Website examples for real world design inspiration.
 
