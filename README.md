@@ -1,6 +1,6 @@
 # Design Resources
 
-[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork) ![Resources](https://img.shields.io/badge/Resources-442-purple.svg)
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork) ![Resources](https://img.shields.io/badge/Resources-442-purple.svg) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://buymeacoffee.com/reinaldosimoes)
 
 Discover a comprehensive collection of **442 curated resources**, catering to both designers and developers, to aid you in crafting your upcoming projects.
 
@@ -8,10 +8,24 @@ Your contributions are warmly welcomed! Feel empowered to create a [new pull req
 
 You can find more information on how to contribute [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
 
+---
+
+### ☕ Support This Project
+
+If this list has helped you discover useful tools, consider [buying me a coffee](https://buymeacoffee.com/reinaldosimoes). Your support helps keep this resource updated and growing!
+
+<a href="https://buymeacoffee.com/reinaldosimoes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+
+**Want to feature your tool?** Reach out about [sponsored placements](#-sponsored-resources) — clearly labeled and separate from the curated list.
+
+---
+
 ## Table of Contents
 
 - [Design Resources](#design-resources)
+    - [☕ Support This Project](#-support-this-project)
   - [Table of Contents](#table-of-contents)
+  - [⭐ Sponsored Resources](#-sponsored-resources)
   - [Fonts](#fonts)
   - [Icons](#icons)
   - [Lottie animations](#lottie-animations)
@@ -32,6 +46,16 @@ You can find more information on how to contribute [here](https://github.com/rei
   - [Collaboration Tools](#collaboration-tools)
   - [Design Contests](#design-contests)
   - [Design Tools](#design-tools)
+
+## ⭐ Sponsored Resources
+
+> **Transparency note:** This section contains paid placements. All sponsors are vetted for quality and relevance to the design community. Sponsored listings are clearly separated from the organically curated resources below.
+
+| Sponsor | Description |
+|---------|-------------|
+| *Your tool here* | Interested in reaching thousands of designers and developers? [Get in touch](mailto:me@reinaldo.pt) |
+
+[Back to Top](#table-of-contents)
 
 ## Fonts
 
