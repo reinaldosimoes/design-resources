@@ -72,6 +72,10 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Bootstrap Icons](https://icons.getbootstrap.com) | Official open-source SVG icon library for Bootstrap. |
 | [Eva Icons](https://akveo.github.io/eva-icons) | A pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
 | [AutoDraw](https://www.autodraw.com) | A Google AI tool that turns rough sketches into clean, editable icons using machine learning. |
+| [Lucide](https://lucide.dev) | A beautiful, consistent, and open-source icon library forked from Feather Icons with active community contributions. |
+| [Tabler Icons](https://tabler.io/icons) | Over 5,000 free MIT-licensed SVG icons with consistent stroke widths and customizable sizes. |
+| [Iconoir](https://iconoir.com) | One of the largest open-source icon libraries with 1,500+ SVG icons, available as React and Vue components. |
+| [Remix Icon](https://remixicon.com) | A set of open-source neutral-style system symbols for designers and developers. |
 
 [Back to Top](#table-of-contents)
 
@@ -88,6 +92,8 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [MotionBox](https://motionbox.io) | Create, edit, and customize Lottie animations online for free. |
 | [Lottie Animation Library](https://designmodo.com/animated-icons-lottie/) | A library of animated icons available in Lottie format, ideal for enhancing user interfaces. |
 | [LottieFiles Community](https://lottiefiles.com/community) | A community-driven collection of free animations for various design projects. |
+| [Rive](https://rive.app) | Create interactive animations that run anywhere — real-time state machines, events, and vector graphics for web, mobile, and games. |
+| [Jitter](https://jitter.video) | Motion design tool for creating animated content directly in the browser, exports to Lottie, GIF, and video. |
 
 [Back to Top](#table-of-contents)
 
@@ -111,6 +117,13 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Remove.bg](https://www.remove.bg) | Automatically removes backgrounds from photos — limited free credits. |
 | [Cleanup.pictures](https://cleanup.pictures) | Uses AI to remove objects or imperfections from photos — basic free version available. |
 | [Let's Enhance](https://letsenhance.io) | Upscale and enhance low-quality photos using AI — limited free credits, paid plans for bulk. |
+| [Midjourney](https://www.midjourney.com) | Leading AI image generator known for artistic, high-quality outputs — accessible via Discord. |
+| [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Adobe's generative AI for creating images, text effects, and vector graphics with commercial-safe training. |
+| [Leonardo.AI](https://leonardo.ai) | AI-powered image generation platform with fine-tuned models for game assets, concept art, and design. |
+| [Ideogram](https://ideogram.ai) | AI image generation with exceptional text rendering capabilities — free tier available. |
+| [Stable Diffusion](https://stability.ai) | Open-source AI image generation model that can run locally or via various hosted platforms. |
+| [Magnific AI](https://magnific.ai) | AI-powered image upscaler and enhancer that adds realistic detail while enlarging images. |
+| [Krea AI](https://www.krea.ai) | Real-time AI image generation and enhancement with creative tools for designers. |
 
 [Back to Top](#table-of-contents)
 
@@ -131,6 +144,13 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Clipstill](https://clipstill.com) | A collection of cinemagraphs (still photos with minor repeated movement). |
 | [Mazwai](https://mazwai.com) | Curated high-quality stock video footage for free use. |
 | [Runway ML](https://runwayml.com) | AI-powered video editing and generative media tools — includes free limited projects. |
+| [Pika](https://pika.art) | AI video generation and editing platform — create videos from text, images, or modify existing footage. |
+| [Kling AI](https://klingai.com) | Advanced AI video generation with realistic motion and physics, from Kuaishou Technology. |
+| [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast AI video generation from text and images with impressive quality and motion coherence. |
+| [HeyGen](https://www.heygen.com) | AI video creation platform with realistic AI avatars for presentations, marketing, and training content. |
+| [Descript](https://www.descript.com) | All-in-one video and podcast editor with AI-powered transcription, overdub, and eye contact correction. |
+| [CapCut](https://www.capcut.com) | Free video editing tool from ByteDance with AI-powered effects, auto-captions, and templates. |
+| [Opus Clip](https://www.opus.pro) | AI-powered tool that repurposes long videos into viral short clips for social media. |
 
 [Back to Top](#table-of-contents)
 
@@ -153,6 +173,9 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Soundstripe](https://soundstripe.com) | A subscription-based service providing royalty-free music for video producers. |
 | [HookSounds](https://www.hooksounds.com) | Exclusive royalty-free music for use in videos, podcasts, and other media projects. |
 | [Mubert](https://mubert.com) | Generates royalty-free music via AI — free tier available for personal use. |
+| [Suno](https://suno.com) | AI music generation that creates full songs with vocals, lyrics, and instrumentation from text prompts. |
+| [Udio](https://www.udio.com) | Advanced AI music generator producing high-quality, genre-diverse tracks from text descriptions. |
+| [Stable Audio](https://www.stableaudio.com) | Stability AI's music and sound generation tool for creating audio from text prompts. |
 
 [Back to Top](#table-of-contents)
 
@@ -176,7 +199,9 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Stubborn](https://stubborn.fun) | A collection of free vector illustrations for commercial use. |
 | [Control](https://control.rocks) | Illustrations for busy designers and startups. |
 | [DALL·E](https://openai.com/index/dall-e-3) | Text-to-image generation by OpenAI — includes monthly free credits for ChatGPT users. |
-| [Illustroke](https://control.rocks) | AI tool that generates SVG illustrations — preview for free, download requires payment. |
+| [Illustroke](https://illustroke.com) | AI tool that generates SVG vector illustrations from text prompts — preview for free, download requires payment. |
+| [Recraft](https://www.recraft.ai) | AI-powered design tool for creating and editing vector art, icons, and illustrations in consistent styles. |
+| [Kittl](https://www.kittl.com) | AI-enhanced design platform for creating logos, illustrations, and print-ready designs with pro templates. |
 
 [Back to Top](#table-of-contents)
 
@@ -195,6 +220,7 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Vector4Free](https://www.vector4free.com) | A curated collection of free vector graphics. |
 | [Stockio](https://www.stockio.com) | Free vectors, photos, videos, and fonts for personal and commercial use. |
 | [Illustroke](https://illustroke.com) | AI-generated vector (SVG) illustrations — free previews, paid downloads. |
+| [SVGRepo](https://www.svgrepo.com) | 500,000+ open-licensed SVG vectors and icons, organized by categories with one-click downloads. |
 
 [Back to Top](#table-of-contents)
 
@@ -218,6 +244,9 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Geopattern](https://github.com/btmills/geopattern) | Create beautiful, customizable geometric patterns automatically. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com) | A collection of customizable SVG-based backgrounds. |
 | [Hero Patterns](http://www.heropatterns.com) | A collection of repeatable SVG background patterns for your web projects. |
+| [Haikei](https://haikei.app) | Generate unique SVG shapes, backgrounds, and patterns with customizable generators for blobs, waves, and more. |
+| [Magic Pattern](https://www.magicpattern.design) | AI-powered design tools for creating backgrounds, patterns, gradients, and CSS effects. |
+| [Mesh Gradient](https://meshgradient.in) | Create beautiful mesh gradients with an intuitive interface and export as PNG or CSS. |
 
 [Back to Top](#table-of-contents)
 
@@ -245,6 +274,8 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Color Lisa](https://colorlisa.com) | A curated list of color palettes based on masterpieces of world art. |
 | [Color Leap](https://colorleap.app) | Travel through time with color palettes inspired by different historical periods. |
 | [Khroma](https://www.khroma.co) | AI color palette generator trained on your preferences. |
+| [Realtime Colors](https://www.realtimecolors.com) | Visualize your color palette on a real website template instantly — export to CSS variables. |
+| [Huemint](https://huemint.com) | AI-powered color palette generator that applies colors to real design mockups for context. |
 
 [Back to Top](#table-of-contents)
 
@@ -272,6 +303,8 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [MockupTree](https://mockuptree.com) | A curated collection of free mockups for designers. |
 | [Template.net](https://www.template.net) | High-quality mockup templates for various design needs. |
 | [Uizard](https://uizard.io) | Create mockups from text or sketches — free tier includes limited projects. |
+| [Shots](https://shots.so) | Create beautiful mockups with device frames, backgrounds, and annotations — browser-based and free. |
+| [Deviceframes](https://deviceframes.com) | 3D device mockups with customizable backgrounds and scenes for showcasing app designs. |
 
 [Back to Top](#table-of-contents)
 
@@ -327,6 +360,12 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [DaisyUI](https://daisyui.com) | A Tailwind CSS component library with styled, themeable UI components for faster development. |
 | [Uiverse](https://uiverse.io) | Open-source community library of HTML and CSS UI elements with live previews and one-click copy. |
 | [Magic UI](https://magicui.design) | A collection of open-source animated React components built with Tailwind CSS and Framer Motion. |
+| [Aceternity UI](https://ui.aceternity.com) | Modern React components with stunning animations, built with Tailwind CSS and Framer Motion. |
+| [Headless UI](https://headlessui.com) | Completely unstyled, accessible UI components from Tailwind Labs for React and Vue. |
+| [Ark UI](https://ark-ui.com) | Headless UI component library that works with React, Vue, and Solid with built-in accessibility. |
+| [Park UI](https://park-ui.com) | Beautifully designed components built on Ark UI, with support for multiple CSS frameworks. |
+| [Next UI](https://nextui.org) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
+| [Tremor](https://www.tremor.so) | React components for building dashboards with charts, tables, and data visualization. |
 
 [Back to Top](#table-of-contents)
 
@@ -352,6 +391,12 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [UI Movement](https://uimovement.com) | A community-driven platform for sharing and discovering UI design inspiration. |
 | [Design Shack](https://designshack.net) | A platform for showcasing and discovering creative web design and development. |
 | [Minimal Gallery](https://minimal.gallery) | A showcase of minimalist web design and inspiration. |
+| [Godly](https://godly.website) | Curated collection of the best web design inspiration — the new Awwwards for modern designers. |
+| [Refero](https://refero.design) | Real product screenshots and UI patterns from top companies organized by component and feature type. |
+| [Lookup Design](https://lookup.design) | Browse UI elements from live websites, organized by categories like pricing pages and hero sections. |
+| [Page Flows](https://pageflows.com) | User flow recordings and screenshots from top products for UX research and design inspiration. |
+| [Screenlane](https://screenlane.com) | Mobile and web UI design inspiration with searchable screens from real apps. |
+| [Savee](https://savee.it) | Visual bookmarking for design inspiration with powerful search and organization features. |
 
 [Back to Top](#table-of-contents)
 
@@ -412,6 +457,10 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
 | [Gemini](https://gemini.google.com) | Google's AI chatbot that integrates with Docs, Sheets, and YouTube — useful for quick design advice and learning workflows. |
 | [Perplexity AI](https://www.perplexity.ai) | A powerful research assistant that answers with real-time sources — great for finding design tutorials, color theory, UX trends, and tools. |
+| [Google AI Studio](https://aistudio.google.com) | Google's web-based IDE for prototyping with Gemini models — experiment with prompts, build AI apps, and access the API. |
+| [OpenAI Playground](https://platform.openai.com/playground) | Experiment with GPT models in an interactive interface for prototyping AI-powered design tools. |
+| [Hugging Face](https://huggingface.co) | The GitHub of machine learning — explore, run, and deploy thousands of AI models for free. |
+| [Replicate](https://replicate.com) | Run open-source AI models in the cloud via API — great for integrating AI image, video, and audio into projects. |
 
 [Back to Top](#table-of-contents)
 
@@ -440,6 +489,11 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Flinto](https://www.flinto.com) | Simple Mac app for micro-interactions and transitions. Quick learning curve with powerful results. |
 | [Wireframe.cc](https://wireframe.cc) | Minimal browser-based wireframing with no signup. Private links for quick sharing. |
 | [MockFlow](https://www.mockflow.com) | Wireframing with built-in UI libraries, sitemaps, and style guide generation. |
+| [Spline](https://spline.design) | 3D design tool for the web — create interactive 3D experiences, animations, and product renders in the browser. |
+| [v0 by Vercel](https://v0.dev) | AI-powered UI generation tool that creates React and Tailwind components from text prompts and images. |
+| [Galileo AI](https://www.usegalileo.ai) | AI design companion that generates editable UI designs from text descriptions. |
+| [Relume](https://www.relume.io) | AI-powered wireframe and sitemap generator that exports to Figma and Webflow. |
+| [Whimsical](https://whimsical.com) | Unified workspace for wireframes, flowcharts, mind maps, and docs with AI-powered diagram generation. |
 
 [Back to Top](#table-of-contents)
 
@@ -474,6 +528,11 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Flowdock](https://www.flowdock.com) | Developer-focused chat with threaded conversations and deep GitHub/Jira integrations. |
 | [Toggl Plan](https://toggl.com/plan) | Visual timeline planning with team workload views. From the makers of Toggl Track. |
 | [Workplace by Facebook](https://www.facebook.com/workplace) | Facebook's interface for enterprise communication with groups, video, and live streaming. |
+| [Linear](https://linear.app) | Modern issue tracking and project management built for software teams — fast, beautiful, and keyboard-first. |
+| [Height](https://height.app) | AI-powered project management with autonomous task creation and smart spreadsheet views. |
+| [Loom](https://www.loom.com) | Async video messaging for quick design feedback, walkthroughs, and team communication. |
+| [Gamma](https://gamma.app) | AI-powered presentation and document creation — generate beautiful slides from text in seconds. |
+| [Pitch](https://pitch.com) | Modern presentation software with real-time collaboration, templates, and video recording built-in. |
 
 [Back to Top](#table-of-contents)
 
@@ -542,3 +601,16 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [Sketchable](https://www.sketchable.app) | Windows-optimized drawing app with excellent pen pressure support and customizable workspace. |
 | [Paintstorm Studio](https://www.paintstormstudio.com) | Affordable digital painting software with a powerful brush engine and dynamic brush settings. |
 | [Black Ink](https://www.bleank.com) | Node-based brush controller for creating unique procedural and generative artwork effects. |
+| [Penpot](https://penpot.app) | Open-source design and prototyping platform — a free Figma alternative with self-hosting options. |
+| [Lunacy](https://icons8.com/lunacy) | Free graphic design software with AI-powered tools, built-in assets, and Sketch file compatibility. |
+| [Pixso](https://pixso.net) | Collaborative design platform combining prototyping, design systems, and developer handoff in one tool. |
+| [Polotno Studio](https://studio.polotno.com) | Free browser-based graphic design editor for social media posts, banners, and print materials. |
+| [Photomator](https://www.pixelmator.com/photomator/) | AI-powered photo editor for Mac with intelligent adjustments, ML-enhanced tools, and RAW support. |
+| [Linearity Curve](https://www.linearity.io/curve/) | Professional vector design tool for Mac and iPad with powerful pen tool and auto-trace features. |
+| [Linearity Move](https://www.linearity.io/move/) | Animation software that brings vector designs to life with an intuitive timeline and motion paths. |
+| [Motiff](https://www.motiff.com) | AI-powered UI design tool with intelligent layout suggestions and design system management. |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based interface for Stable Diffusion with advanced workflows for AI image generation. |
+| [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
+| [Napkin AI](https://www.napkin.ai) | Transform text into visuals instantly — create diagrams, flowcharts, and infographics with AI. |
+
+[Back to Top](#table-of-contents)
