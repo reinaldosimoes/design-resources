@@ -1,8 +1,8 @@
 # Design Resources
 
-[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork) ![Resources](https://img.shields.io/badge/Resources-442-purple.svg)
 
-Discover a comprehensive collection of resources, catering to both designers and developers, to aid you in crafting your upcoming projects.
+Discover a comprehensive collection of **442 curated resources**, catering to both designers and developers, to aid you in crafting your upcoming projects.
 
 Your contributions are warmly welcomed! Feel empowered to create a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) and share any fresh resources not yet featured on the list or propose improvements to existing ones.
 
