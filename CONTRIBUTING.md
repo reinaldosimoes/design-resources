@@ -26,20 +26,16 @@ Thank you for considering contributing to this project! Your contributions help 
 
 ## Resource Template
 
-Please use the following template when adding a new resource:
+Please use the following template when adding a new resource. Add a new row to the appropriate section's table:
 
 ```markdown
-### [Title](https://www.title.com)
-
-A brief description of the resource, highlighting its main features and benefits.
+| [Title](https://www.title.com) | A brief description of the resource, highlighting its main features and benefits. |
 ```
 
 ### Example
 
 ```markdown
-### [Unsplash](https://unsplash.com)
-
-Beautiful, free images and photos that you can download and use for any project. Better than any royalty-free or stock photos.
+| [Unsplash](https://unsplash.com) | Beautiful, free images and photos that you can download and use for any project. Better than any royalty-free or stock photos. |
 ```
 
 ## Guidelines
@@ -48,7 +44,8 @@ Beautiful, free images and photos that you can download and use for any project.
 - The resource should include a small description, highlighting its main features and benefits.
 - Ensure the URL is correct and links directly to the resource.
 - Check for duplicates before adding a new resource.
-- Maintain alphabetical order within each section.
+- Maintain alphabetical order within each section (sort by resource name).
+- Add the new row in the correct alphabetical position within the table.
 
 ## Need Help?
 
