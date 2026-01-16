@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=180&section=header&text=Design%20Resources&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=A%20curated%20collection%20of%20442%20resources%20for%20designers%20and%20developers&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=180&section=header&text=Design%20Resources&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=A%20curated%20collection%20of%20resources%20for%20designers%20and%20developers&descAlignY=55&descSize=16" width="100%"/>
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About the Curator
 
-Hey! I'm **Reinaldo Simões**, a developer and designer passionate about building great digital experiences. I created this list to help fellow creators discover quality resources without the noise.
+Hey! I'm **Reinaldo Simões**, a developer and designer passionate about building great digital experiences. I created this list to help other creators discover quality resources.
 
 [![Website](https://img.shields.io/badge/🌐_reinaldo.pt-000?style=flat)](https://reinaldo.pt)
 [![Email](https://img.shields.io/badge/📧_Contact-000?style=flat)](mailto:me@reinaldo.pt)
