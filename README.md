@@ -562,7 +562,6 @@ If this list helped you, consider buying me a coffee! Your support keeps this re
 | [Toggl Plan](https://toggl.com/plan) | Visual timeline planning with team workload views. From the makers of Toggl Track. |
 | [Workplace by Facebook](https://www.facebook.com/workplace) | Facebook's interface for enterprise communication with groups, video, and live streaming. |
 | [Linear](https://linear.app) | Modern issue tracking and project management built for software teams — fast, beautiful, and keyboard-first. |
-| [Height](https://height.app) | AI-powered project management with autonomous task creation and smart spreadsheet views. |
 | [Loom](https://www.loom.com) | Async video messaging for quick design feedback, walkthroughs, and team communication. |
 | [Gamma](https://gamma.app) | AI-powered presentation and document creation — generate beautiful slides from text in seconds. |
 | [Pitch](https://pitch.com) | Modern presentation software with real-time collaboration, templates, and video recording built-in. |
