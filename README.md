@@ -1,51 +1,60 @@
-# Design Resources
+<div align="center">
 
-[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls) [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork) ![Resources](https://img.shields.io/badge/Resources-442-purple.svg) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://buymeacoffee.com/reinaldosimoes)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=180&section=header&text=Design%20Resources&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=A%20curated%20collection%20of%20442%20resources%20for%20designers%20and%20developers&descAlignY=55&descSize=16" width="100%"/>
 
-Discover a comprehensive collection of **442 curated resources**, catering to both designers and developers, to aid you in crafting your upcoming projects.
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
+[![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
+![Resources](https://img.shields.io/badge/Resources-442-purple.svg)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow.svg)](https://buymeacoffee.com/reinaldosimoes)
 
-Your contributions are warmly welcomed! Feel empowered to create a [new pull request](https://github.com/reinaldosimoes/design-resources/pulls) and share any fresh resources not yet featured on the list or propose improvements to existing ones.
+**Discover tools, assets, and inspiration to craft your next project.**
 
-You can find more information on how to contribute [here](https://github.com/reinaldosimoes/design-resources/blob/main/CONTRIBUTING.md).
+[Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
+
+</div>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 About the Curator
+
+Hey! I'm **Reinaldo Simões**, a developer and designer passionate about building great digital experiences. I created this list to help fellow creators discover quality resources without the noise.
+
+[![Website](https://img.shields.io/badge/🌐_reinaldo.pt-000?style=flat)](https://reinaldo.pt)
+[![Email](https://img.shields.io/badge/📧_Contact-000?style=flat)](mailto:me@reinaldo.pt)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/reinaldosimoes)
+
+</td>
+<td width="50%" valign="top">
 
 ### ☕ Support This Project
 
-If this list has helped you discover useful tools, consider [buying me a coffee](https://buymeacoffee.com/reinaldosimoes). Your support helps keep this resource updated and growing!
+If this list helped you, consider buying me a coffee! Your support keeps this resource updated and growing.
 
-<a href="https://buymeacoffee.com/reinaldosimoes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+<a href="https://buymeacoffee.com/reinaldosimoes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
 
-**Want to feature your tool?** Reach out about [sponsored placements](#-sponsored-resources) — clearly labeled and separate from the curated list.
+**Want to feature your tool?** Check out [sponsored placements](#-sponsored-resources) — transparent and separate from the curated list.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Design Resources](#design-resources)
-    - [☕ Support This Project](#-support-this-project)
-  - [Table of Contents](#table-of-contents)
-  - [⭐ Sponsored Resources](#-sponsored-resources)
-  - [Fonts](#fonts)
-  - [Icons](#icons)
-  - [Lottie animations](#lottie-animations)
-  - [Photos](#photos)
-  - [Videos](#videos)
-  - [Music](#music)
-  - [Illustrations](#illustrations)
-  - [Vectors](#vectors)
-  - [Backgrounds \& Patterns](#backgrounds--patterns)
-  - [Colors](#colors)
-  - [Mockups](#mockups)
-  - [Design Systems](#design-systems)
-  - [UI Kits](#ui-kits)
-  - [Design Inspiration](#design-inspiration)
-  - [Design Blogs](#design-blogs)
-  - [Learning Resources](#learning-resources)
-  - [Prototyping Tools](#prototyping-tools)
-  - [Collaboration Tools](#collaboration-tools)
-  - [Design Contests](#design-contests)
-  - [Design Tools](#design-tools)
+| | | |
+|:--|:--|:--|
+| [⭐ Sponsored Resources](#-sponsored-resources) | [🔤 Fonts](#-fonts) | [🎨 Icons](#-icons) |
+| [✨ Lottie Animations](#-lottie-animations) | [📷 Photos](#-photos) | [🎬 Videos](#-videos) |
+| [🎵 Music](#-music) | [🖼️ Illustrations](#-illustrations) | [📐 Vectors](#-vectors) |
+| [🌈 Backgrounds & Patterns](#-backgrounds--patterns) | [🎨 Colors](#-colors) | [📱 Mockups](#-mockups) |
+| [📋 Design Systems](#-design-systems) | [🧩 UI Kits](#-ui-kits) | [💡 Design Inspiration](#-design-inspiration) |
+| [📝 Design Blogs](#-design-blogs) | [📖 Learning Resources](#-learning-resources) | [🛠️ Prototyping Tools](#-prototyping-tools) |
+| [🤝 Collaboration Tools](#-collaboration-tools) | [🏆 Design Contests](#-design-contests) | [🔧 Design Tools](#-design-tools) |
 
 ## ⭐ Sponsored Resources
 
@@ -55,9 +64,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 |---------|-------------|
 | *Your tool here* | Interested in reaching thousands of designers and developers? [Get in touch](mailto:me@reinaldo.pt) |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Fonts
+## 🔤 Fonts
 
 | Resource | Description |
 |----------|-------------|
@@ -75,9 +84,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Font Library](https://fontlibrary.org) | A library of high-quality, open-source fonts for all languages and scripts. |
 | [CLT](https://www.collletttivo.it/typefaces/) | Collletttivo typefaces are released under SIL Open Font License (OFL). Remember to credit Collletttivo or the original designer in the best way you can afford. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Icons
+## 🎨 Icons
 
 | Resource | Description |
 |----------|-------------|
@@ -101,9 +110,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Iconoir](https://iconoir.com) | One of the largest open-source icon libraries with 1,500+ SVG icons, available as React and Vue components. |
 | [Remix Icon](https://remixicon.com) | A set of open-source neutral-style system symbols for designers and developers. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Lottie animations
+## ✨ Lottie Animations
 
 | Resource | Description |
 |----------|-------------|
@@ -119,9 +128,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Rive](https://rive.app) | Create interactive animations that run anywhere — real-time state machines, events, and vector graphics for web, mobile, and games. |
 | [Jitter](https://jitter.video) | Motion design tool for creating animated content directly in the browser, exports to Lottie, GIF, and video. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Photos
+## 📷 Photos
 
 | Resource | Description |
 |----------|-------------|
@@ -149,9 +158,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Magnific AI](https://magnific.ai) | AI-powered image upscaler and enhancer that adds realistic detail while enlarging images. |
 | [Krea AI](https://www.krea.ai) | Real-time AI image generation and enhancement with creative tools for designers. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Videos
+## 🎬 Videos
 
 | Resource | Description |
 |----------|-------------|
@@ -176,9 +185,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [CapCut](https://www.capcut.com) | Free video editing tool from ByteDance with AI-powered effects, auto-captions, and templates. |
 | [Opus Clip](https://www.opus.pro) | AI-powered tool that repurposes long videos into viral short clips for social media. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Music
+## 🎵 Music
 
 | Resource | Description |
 |----------|-------------|
@@ -201,9 +210,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Udio](https://www.udio.com) | Advanced AI music generator producing high-quality, genre-diverse tracks from text descriptions. |
 | [Stable Audio](https://www.stableaudio.com) | Stability AI's music and sound generation tool for creating audio from text prompts. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Illustrations
+## 🖼️ Illustrations
 
 | Resource | Description |
 |----------|-------------|
@@ -227,9 +236,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Recraft](https://www.recraft.ai) | AI-powered design tool for creating and editing vector art, icons, and illustrations in consistent styles. |
 | [Kittl](https://www.kittl.com) | AI-enhanced design platform for creating logos, illustrations, and print-ready designs with pro templates. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Vectors
+## 📐 Vectors
 
 | Resource | Description |
 |----------|-------------|
@@ -246,9 +255,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Illustroke](https://illustroke.com) | AI-generated vector (SVG) illustrations — free previews, paid downloads. |
 | [SVGRepo](https://www.svgrepo.com) | 500,000+ open-licensed SVG vectors and icons, organized by categories with one-click downloads. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Backgrounds & Patterns
+## 🌈 Backgrounds & Patterns
 
 | Resource | Description |
 |----------|-------------|
@@ -272,9 +281,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Magic Pattern](https://www.magicpattern.design) | AI-powered design tools for creating backgrounds, patterns, gradients, and CSS effects. |
 | [Mesh Gradient](https://meshgradient.in) | Create beautiful mesh gradients with an intuitive interface and export as PNG or CSS. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Colors
+## 🎨 Colors
 
 | Resource | Description |
 |----------|-------------|
@@ -301,9 +310,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Realtime Colors](https://www.realtimecolors.com) | Visualize your color palette on a real website template instantly — export to CSS variables. |
 | [Huemint](https://huemint.com) | AI-powered color palette generator that applies colors to real design mockups for context. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Mockups
+## 📱 Mockups
 
 | Resource | Description |
 |----------|-------------|
@@ -330,9 +339,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Shots](https://shots.so) | Create beautiful mockups with device frames, backgrounds, and annotations — browser-based and free. |
 | [Deviceframes](https://deviceframes.com) | 3D device mockups with customizable backgrounds and scenes for showcasing app designs. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Design Systems
+## 📋 Design Systems
 
 | Resource | Description |
 |----------|-------------|
@@ -352,9 +361,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [DesignSystem.codes](https://www.designsystem.codes) | A collection of resources and tools for creating design systems. |
 | [Elastic UI](https://elastic.github.io/eui) | Elastic's design system for creating engaging user experiences. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## UI Kits
+## 🧩 UI Kits
 
 | Resource | Description |
 |----------|-------------|
@@ -391,9 +400,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Next UI](https://nextui.org) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
 | [Tremor](https://www.tremor.so) | React components for building dashboards with charts, tables, and data visualization. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Design Inspiration
+## 💡 Design Inspiration
 
 | Resource | Description |
 |----------|-------------|
@@ -422,9 +431,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Screenlane](https://screenlane.com) | Mobile and web UI design inspiration with searchable screens from real apps. |
 | [Savee](https://savee.it) | Visual bookmarking for design inspiration with powerful search and organization features. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Design Blogs
+## 📝 Design Blogs
 
 | Resource | Description |
 |----------|-------------|
@@ -450,9 +459,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [The Verge](https://www.theverge.com) | Technology journalism covering product design, gadget reviews, and digital culture. |
 | [Dribbble Blog](https://dribbble.com/stories) | Designer interviews, career advice, and behind-the-scenes looks at iconic design work. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Learning Resources
+## 📖 Learning Resources
 
 | Resource | Description |
 |----------|-------------|
@@ -486,9 +495,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Hugging Face](https://huggingface.co) | The GitHub of machine learning — explore, run, and deploy thousands of AI models for free. |
 | [Replicate](https://replicate.com) | Run open-source AI models in the cloud via API — great for integrating AI image, video, and audio into projects. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Prototyping Tools
+## 🛠️ Prototyping Tools
 
 | Resource | Description |
 |----------|-------------|
@@ -519,9 +528,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Relume](https://www.relume.io) | AI-powered wireframe and sitemap generator that exports to Figma and Webflow. |
 | [Whimsical](https://whimsical.com) | Unified workspace for wireframes, flowcharts, mind maps, and docs with AI-powered diagram generation. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Collaboration Tools
+## 🤝 Collaboration Tools
 
 | Resource | Description |
 |----------|-------------|
@@ -558,9 +567,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Gamma](https://gamma.app) | AI-powered presentation and document creation — generate beautiful slides from text in seconds. |
 | [Pitch](https://pitch.com) | Modern presentation software with real-time collaboration, templates, and video recording built-in. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Design Contests
+## 🏆 Design Contests
 
 | Resource | Description |
 |----------|-------------|
@@ -591,9 +600,9 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Krop](https://www.krop.com) | Creative industry job board and portfolio hosting for designers, developers, and marketers. |
 | [Coroflot](https://www.coroflot.com) | Design job board and portfolio platform with salary benchmarking tools for the design industry. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
 
-## Design Tools
+## 🔧 Design Tools
 
 | Resource | Description |
 |----------|-------------|
@@ -637,4 +646,22 @@ If this list has helped you discover useful tools, consider [buying me a coffee]
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Napkin AI](https://www.napkin.ai) | Transform text into visuals instantly — create diagrams, flowcharts, and infographics with AI. |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#-table-of-contents)
+
+---
+
+<div align="center">
+
+### 🙏 Thank You
+
+Thanks for checking out this collection! If you found it helpful, please consider:
+
+⭐ **Starring this repo** · ☕ [**Buying me a coffee**](https://buymeacoffee.com/reinaldosimoes) · 🔀 **Sharing with others**
+
+<br>
+
+Made with ❤️ by [Reinaldo Simões](https://reinaldo.pt)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=100&section=footer" width="100%"/>
+
+</div>
