@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About the Curator
 
-Hey! I'm **Reinaldo Simões**, a developer and designer passionate about building great digital experiences. I created this list to help other creators discover quality resources.
+Hey! I'm **Reinaldo Simões**, a developer passionate about building great digital experiences. I created this list to help other creators discover quality resources.
 
 [![Website](https://img.shields.io/badge/🌐_reinaldo.pt-000?style=flat)](https://reinaldo.pt)
 [![Email](https://img.shields.io/badge/📧_Contact-000?style=flat)](mailto:me@reinaldo.pt)
