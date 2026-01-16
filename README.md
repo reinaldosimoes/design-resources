@@ -10,26 +10,28 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 ## Table of Contents
 
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Lottie Animations](#lottie-animations)
-- [Photos](#photos)
-- [Videos](#videos)
-- [Music](#music)
-- [Illustrations](#illustrations)
-- [Vectors](#vectors)
-- [Backgrounds & Patterns](#backgrounds--patterns)
-- [Colors](#colors)
-- [Mockups](#mockups)
-- [Design Systems](#design-systems)
-- [UI Kits](#ui-kits)
-- [Design Inspiration](#design-inspiration)
-- [Design Blogs](#design-blogs)
-- [Learning Resources](#learning-resources)
-- [Prototyping Tools](#prototyping-tools)
-- [Collaboration Tools](#collaboration-tools)
-- [Design Contests](#design-contests)
-- [Design Tools](#design-tools)
+- [Design Resources](#design-resources)
+  - [Table of Contents](#table-of-contents)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Lottie animations](#lottie-animations)
+  - [Photos](#photos)
+  - [Videos](#videos)
+  - [Music](#music)
+  - [Illustrations](#illustrations)
+  - [Vectors](#vectors)
+  - [Backgrounds \& Patterns](#backgrounds--patterns)
+  - [Colors](#colors)
+  - [Mockups](#mockups)
+  - [Design Systems](#design-systems)
+  - [UI Kits](#ui-kits)
+  - [Design Inspiration](#design-inspiration)
+  - [Design Blogs](#design-blogs)
+  - [Learning Resources](#learning-resources)
+  - [Prototyping Tools](#prototyping-tools)
+  - [Collaboration Tools](#collaboration-tools)
+  - [Design Contests](#design-contests)
+  - [Design Tools](#design-tools)
 
 ## Fonts
 
@@ -319,6 +321,12 @@ You can find more information on how to contribute [here](https://github.com/rei
 | [UI Store](https://www.uistore.design) | Free and premium UI kits, templates, and design resources for various design projects. |
 | [Uplabs](https://www.uplabs.com) | A platform for sharing UI kits, templates, and design resources. |
 | [HTMLrev](https://htmlrev.com) | Free HTML CSS templates, UI libraries and boilerplates. |
+| [21st.dev](https://21st.dev) | A community-driven registry of React UI components built with Tailwind CSS and Radix UI. |
+| [shadcn/ui](https://ui.shadcn.com) | Beautifully designed, accessible React components built with Tailwind CSS and Radix UI primitives. |
+| [Radix UI](https://www.radix-ui.com) | Open-source, accessible UI primitives for building high-quality React design systems and web apps. |
+| [DaisyUI](https://daisyui.com) | A Tailwind CSS component library with styled, themeable UI components for faster development. |
+| [Uiverse](https://uiverse.io) | Open-source community library of HTML and CSS UI elements with live previews and one-click copy. |
+| [Magic UI](https://magicui.design) | A collection of open-source animated React components built with Tailwind CSS and Framer Motion. |
 
 [Back to Top](#table-of-contents)
 
@@ -351,27 +359,27 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [Smashing Magazine](https://www.smashingmagazine.com) | An online magazine for professional web designers and developers, featuring articles, tutorials, and resources. |
-| [A List Apart](https://alistapart.com) | A blog focused on web standards, best practices, and forward-thinking design and development. |
-| [Creative Bloq](https://www.creativebloq.com) | A blog offering daily design tips, tutorials, and inspiration for creative professionals. |
-| [Designmodo Blog](https://designmodo.com/blog) | A blog featuring articles and tutorials on web design, development, and inspiration. |
-| [Webdesigner Depot](https://www.webdesignerdepot.com) | A blog offering articles, tutorials, and resources for web designers and developers. |
-| [Codrops](https://tympanus.net/codrops) | A blog featuring articles, tutorials, and resources on web design and development. |
-| [UX Design](https://uxdesign.cc) | A blog focused on user experience design, offering articles, tutorials, and resources. |
-| [Speckyboy Design Magazine](https://speckyboy.com) | A blog featuring articles, tutorials, and resources on web design and development. |
-| [Design Shack](https://designshack.net) | A blog offering articles, tutorials, and resources on web design, development, and inspiration. |
-| [CSS-Tricks](https://css-tricks.com) | A blog offering articles, tutorials, and resources on web design and development, with a focus on CSS. |
-| [Designmodo](https://designmodo.com) | A blog featuring articles and tutorials on web design, development, and inspiration. |
-| [Tuts+](https://tutsplus.com) | A blog offering tutorials and articles on web design, development, and creative skills. |
-| [Envato Blog](https://envato.com/blog) | A blog featuring articles, tutorials, and resources for creative professionals. |
-| [SitePoint](https://www.sitepoint.com) | A blog offering articles, tutorials, and resources on web design and development. |
-| [Noupe](https://noupe.com) | A blog featuring articles, tutorials, and resources on web design, development, and inspiration. |
-| [The Next Web](https://thenextweb.com) | A blog offering articles, news, and resources on technology, design, and innovation. |
-| [Muzli](https://medium.muz.li) | A blog offering articles, tutorials, and resources on web design, development, and inspiration. |
-| [Web Design Ledger](https://webdesignledger.com) | A blog featuring articles, tutorials, and resources on web design and development. |
-| [Sidebar](https://sidebar.io) | A daily newsletter featuring the best articles, tutorials, and resources on web design and development. |
-| [The Verge](https://www.theverge.com) | A blog offering articles, news, and resources on technology, design, and innovation. |
-| [Dribbble Blog](https://dribbble.com/stories) | A blog featuring articles, tutorials, and resources on web design, development, and inspiration. |
+| [Smashing Magazine](https://www.smashingmagazine.com) | In-depth articles on front-end development, UX, and accessibility. Known for their annual conferences and book series. |
+| [A List Apart](https://alistapart.com) | Pioneering web standards publication since 1998, exploring the meaning and craft of web design. |
+| [Creative Bloq](https://www.creativebloq.com) | Daily creative inspiration covering graphic design, 3D, illustration, and the latest design tool news. |
+| [Designmodo Blog](https://designmodo.com/blog) | Practical web design tutorials with a focus on UI frameworks, email design, and startup tools. |
+| [Webdesigner Depot](https://www.webdesignerdepot.com) | Opinionated takes on design trends, tool reviews, and business advice for freelance designers. |
+| [Codrops](https://tympanus.net/codrops) | Cutting-edge CSS and JavaScript experiments with open-source demos and detailed breakdowns. |
+| [UX Design](https://uxdesign.cc) | Medium's largest UX publication with perspectives from practitioners at Google, Spotify, and beyond. |
+| [Speckyboy Design Magazine](https://speckyboy.com) | Curated design resources, WordPress themes, and freebies alongside educational articles. |
+| [Design Shack](https://designshack.net) | Quick-read articles on typography, color theory, and design trends with practical takeaways. |
+| [CSS-Tricks](https://css-tricks.com) | The go-to resource for CSS techniques, now part of DigitalOcean. Famous for Flexbox and Grid guides. |
+| [Designmodo](https://designmodo.com) | Focus on UI frameworks and startup design, creators of Slides and Startup frameworks. |
+| [Tuts+](https://tutsplus.com) | Step-by-step tutorials across design, code, and video from beginner to advanced levels. |
+| [Envato Blog](https://envato.com/blog) | Behind-the-scenes of the creative marketplace with tips for authors and freelancers. |
+| [SitePoint](https://www.sitepoint.com) | Developer-focused tutorials and books on web technologies, JavaScript frameworks, and design. |
+| [Noupe](https://noupe.com) | Trend roundups, tool discoveries, and business advice for design agencies and freelancers. |
+| [The Next Web](https://thenextweb.com) | Tech news site covering design tools, startups, and the intersection of design and technology. |
+| [Muzli](https://medium.muz.li) | Design inspiration aggregator as a Chrome extension and blog, powered by InVision. |
+| [Web Design Ledger](https://webdesignledger.com) | Curated collections of design resources, templates, and inspiration for web designers. |
+| [Sidebar](https://sidebar.io) | Five curated design links daily — a focused newsletter cutting through the noise. |
+| [The Verge](https://www.theverge.com) | Technology journalism covering product design, gadget reviews, and digital culture. |
+| [Dribbble Blog](https://dribbble.com/stories) | Designer interviews, career advice, and behind-the-scenes looks at iconic design work. |
 
 [Back to Top](#table-of-contents)
 
@@ -379,27 +387,27 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [Coursera](https://www.coursera.org) | Online courses and specializations from top universities and companies in web design, development, and more. |
-| [Udemy](https://www.udemy.com) | Online courses and tutorials on web design, development, and creative skills. |
-| [edX](https://www.edx.org) | Online courses and programs from top universities and companies in web design, development, and more. |
-| [Treehouse](https://teamtreehouse.com) | Online courses and tutorials on web design, development, and coding. |
-| [Codecademy](https://www.codecademy.com) | Interactive coding tutorials and courses on web design and development. |
-| [LinkedIn Learning](https://www.linkedin.com/learning) | Online courses and tutorials on web design, development, and creative skills. |
-| [Pluralsight](https://www.pluralsight.com) | Online courses and tutorials on web design, development, and technology. |
-| [Khan Academy](https://www.khanacademy.org) | Free online courses and tutorials on web design, development, and computer science. |
-| [FreeCodeCamp](https://www.freecodecamp.org) | Free coding tutorials and courses on web design, development, and programming. |
-| [The Odin Project](https://www.theodinproject.com) | A free, open-source coding curriculum focused on web development. |
-| [Designlab](https://trydesignlab.com) | Online courses and mentorship in UX design, UI design, and web development. |
-| [Interaction Design Foundation](https://www.interaction-design.org) | Online courses and resources on UX design, interaction design, and user research. |
-| [Skillshare](https://www.skillshare.com) | Online classes and tutorials on web design, development, and creative skills. |
-| [General Assembly](https://generalassemb.ly) | Online and in-person courses on web design, development, and technology. |
-| [CreativeLive](https://www.creativelive.com) | Online classes and workshops on web design, development, and creative skills. |
-| [Frontend Masters](https://frontendmasters.com) | Online courses and workshops on front-end web development and design. |
-| [Lynda](https://www.lynda.com) | Online courses and tutorials on web design, development, and creative skills. |
-| [Scrimba](https://scrimba.com) | Interactive coding tutorials and courses on web design and development. |
-| [Design+Code](https://designcode.io) | Online courses and tutorials on web design, development, and mobile app design. |
-| [Envato Tuts+](https://tutsplus.com) | Online tutorials and courses on web design, development, and creative skills. |
-| [Google Web Fundamentals](https://developers.google.com/web) | A collection of tutorials and resources on web design, development, and best practices. |
+| [Coursera](https://www.coursera.org) | University-level courses from Stanford, Yale, and Google. Certificates count toward degrees. |
+| [Udemy](https://www.udemy.com) | Marketplace with 200,000+ courses. Wait for sales — prices drop from $100 to $15 regularly. |
+| [edX](https://www.edx.org) | Free courses from MIT and Harvard with optional paid certificates. MicroMasters programs available. |
+| [Treehouse](https://teamtreehouse.com) | Structured learning tracks for web dev with a focus on beginners changing careers. |
+| [Codecademy](https://www.codecademy.com) | Learn-by-doing platform with in-browser coding exercises. Free tier covers basics well. |
+| [LinkedIn Learning](https://www.linkedin.com/learning) | Formerly Lynda.com. Certificates display on LinkedIn profile. Often free via public libraries. |
+| [Pluralsight](https://www.pluralsight.com) | Deep technical courses with skill assessments and learning paths for engineering teams. |
+| [Khan Academy](https://www.khanacademy.org) | Completely free education covering computing basics, JavaScript, and SQL fundamentals. |
+| [FreeCodeCamp](https://www.freecodecamp.org) | Free full-stack curriculum with certifications. Build real projects for nonprofits. |
+| [The Odin Project](https://www.theodinproject.com) | Full-stack curriculum teaching Ruby or JavaScript paths with community support. 100% free. |
+| [Designlab](https://trydesignlab.com) | Mentor-led UX bootcamps with portfolio reviews and 1-on-1 feedback sessions. |
+| [Interaction Design Foundation](https://www.interaction-design.org) | Affordable membership for 40+ UX courses. Used by designers at Apple and IBM for training. |
+| [Skillshare](https://www.skillshare.com) | Project-based classes from working professionals in design, illustration, and motion. |
+| [General Assembly](https://generalassemb.ly) | Bootcamp-style programs with career services. Options for part-time, full-time, or self-paced. |
+| [CreativeLive](https://www.creativelive.com) | Free live broadcasts of photography, design, and business classes. Pay to rewatch. |
+| [Frontend Masters](https://frontendmasters.com) | Expert-level JavaScript and front-end courses from industry leaders like Kyle Simpson. |
+| [Lynda](https://www.lynda.com) | Now LinkedIn Learning. Classic software tutorials still accessible through the redirect. |
+| [Scrimba](https://scrimba.com) | Interactive screencasts where you can pause and edit the instructor's code directly. |
+| [Design+Code](https://designcode.io) | SwiftUI, React, and Figma courses with beautiful production value and real-world projects. |
+| [Envato Tuts+](https://tutsplus.com) | Bite-sized tutorials on Adobe tools, WordPress, and web development with downloadable assets. |
+| [Google Web Fundamentals](https://developers.google.com/web) | Official guides on performance, PWAs, and Core Web Vitals from Google's developer relations team. |
 | [ChatGPT](https://chatgpt.com) | Use the free ChatGPT tier to generate code explanations, design walkthroughs, and idea brainstorming. |
 | [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
 | [Gemini](https://gemini.google.com) | Google's AI chatbot that integrates with Docs, Sheets, and YouTube — useful for quick design advice and learning workflows. |
@@ -411,27 +419,27 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [Figma](https://www.figma.com) | A collaborative interface design tool for creating prototypes and mockups. |
-| [Sketch](https://www.sketch.com) | A popular design tool for creating user interfaces and prototypes. |
-| [Adobe XD](https://www.adobe.com/products/xd.html) | A vector-based tool for designing and prototyping user experiences for web and mobile apps. |
-| [InVision](https://www.invisionapp.com) | A digital product design platform for creating interactive prototypes and mockups. |
-| [Marvel](https://marvelapp.com) | A prototyping tool for creating interactive wireframes and prototypes. |
-| [Axure RP](https://www.axure.com) | A prototyping and wireframing tool for creating interactive and high-fidelity prototypes. |
-| [Proto.io](https://proto.io) | A prototyping tool for creating fully-interactive, high-fidelity prototypes. |
-| [Framer](https://www.framer.com) | A design tool for creating interactive prototypes and animations. |
-| [Balsamiq](https://balsamiq.com) | A wireframing tool for creating low-fidelity prototypes and mockups. |
-| [Justinmind](https://www.justinmind.com) | A prototyping tool for creating interactive wireframes and high-fidelity prototypes. |
-| [Origami Studio](https://origami.design) | A design tool for creating interactive prototypes and animations, developed by Facebook. |
-| [Mockplus](https://www.mockplus.com) | A prototyping tool for creating interactive wireframes and prototypes. |
-| [Fluid UI](https://www.fluidui.com) | A prototyping tool for creating interactive wireframes and prototypes for web and mobile apps. |
-| [UXPin](https://www.uxpin.com) | A design tool for creating interactive prototypes and wireframes. |
-| [Principle](https://principleformac.com) | A design tool for creating interactive prototypes and animations. |
-| [Moqups](https://moqups.com) | A prototyping tool for creating wireframes, mockups, and prototypes. |
-| [ProtoPie](https://www.protopie.io) | A prototyping tool for creating interactive and high-fidelity prototypes without coding. |
-| [Kite Compositor](https://kiteapp.co) | A design tool for creating interactive prototypes and animations for macOS. |
-| [Flinto](https://www.flinto.com) | A design tool for creating interactive prototypes and animations for macOS. |
-| [Wireframe.cc](https://wireframe.cc) | A simple and minimalistic wireframing tool for creating low-fidelity prototypes. |
-| [MockFlow](https://www.mockflow.com) | A prototyping tool for creating wireframes, mockups, and interactive prototypes. |
+| [Figma](https://www.figma.com) | All-in-one design and prototyping with smart animate, component variants, and dev mode for handoff. |
+| [Sketch](https://www.sketch.com) | Mac-native design with prototyping via linked artboards. Best with third-party plugins for complex interactions. |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Auto-animate between artboards, voice triggers, and 3D transforms. Integrates with Creative Cloud. |
+| [InVision](https://www.invisionapp.com) | Click-through prototypes with commenting. Freehand for collaborative whiteboarding. |
+| [Marvel](https://marvelapp.com) | Quick prototyping from sketches or designs with user testing built in. Great for early concepts. |
+| [Axure RP](https://www.axure.com) | Complex conditional logic, variables, and data-driven prototypes. Enterprise favorite for detailed specs. |
+| [Proto.io](https://proto.io) | High-fidelity prototypes with device sensors, audio/video, and native-like interactions. |
+| [Framer](https://www.framer.com) | React-powered prototypes that can become production sites. Advanced animations and real code components. |
+| [Balsamiq](https://balsamiq.com) | Intentionally sketchy wireframes that keep focus on structure, not polish. Fast for early ideation. |
+| [Justinmind](https://www.justinmind.com) | Enterprise prototyping with conditional navigation, variables, and data lists. Exports to HTML. |
+| [Origami Studio](https://origami.design) | Meta's tool for complex gesture-based prototypes. Powers Facebook, Instagram, and WhatsApp design. |
+| [Mockplus](https://www.mockplus.com) | Rapid prototyping with 3000+ components and one-click export. Team collaboration features included. |
+| [Fluid UI](https://www.fluidui.com) | Browser-based prototyping with built-in iOS/Android/Windows libraries. Real-time collaboration. |
+| [UXPin](https://www.uxpin.com) | Design with React, Storybook, or npm components. Merge technology connects design to production code. |
+| [Principle](https://principleformac.com) | Timeline-based animation for macOS. Exports to video for Dribbble-ready presentations. |
+| [Moqups](https://moqups.com) | All-in-one visual collaboration with wireframes, diagrams, and prototypes in one canvas. |
+| [ProtoPie](https://www.protopie.io) | Sensor-based interactions without code — accelerometer, sound, and multi-device prototypes. |
+| [Kite Compositor](https://kiteapp.co) | macOS animation tool with Core Animation integration. Export as Swift code for developers. |
+| [Flinto](https://www.flinto.com) | Simple Mac app for micro-interactions and transitions. Quick learning curve with powerful results. |
+| [Wireframe.cc](https://wireframe.cc) | Minimal browser-based wireframing with no signup. Private links for quick sharing. |
+| [MockFlow](https://www.mockflow.com) | Wireframing with built-in UI libraries, sitemaps, and style guide generation. |
 
 [Back to Top](#table-of-contents)
 
@@ -439,33 +447,33 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [Slack](https://slack.com) | A collaboration hub for work, allowing teams to communicate and collaborate in real-time. |
-| [Trello](https://trello.com) | A project management tool for organizing and prioritizing tasks and projects. |
-| [Asana](https://asana.com) | A project management tool for tracking and managing tasks and projects. |
-| [Jira](https://www.atlassian.com/software/jira) | A project management tool for tracking and managing software development projects. |
-| [Basecamp](https://basecamp.com) | A project management tool for organizing and managing tasks, projects, and team collaboration. |
-| [Miro](https://miro.com) | An online collaborative whiteboard platform for brainstorming and planning. |
-| [Notion](https://www.notion.so) | An all-in-one workspace for note-taking, project management, and collaboration. |
-| [Microsoft Teams](https://www.microsoft.com/microsoft-teams) | A collaboration platform for chat, meetings, and file sharing. |
-| [Google Workspace](https://workspace.google.com) | A suite of productivity and collaboration tools, including Gmail, Docs, Drive, and Calendar. |
-| [Figma](https://www.figma.com) | A collaborative interface design tool for creating prototypes and mockups. |
-| [Zeplin](https://zeplin.io) | A collaboration tool for designers and developers to hand off designs and specs. |
-| [InVision](https://www.invisionapp.com) | A digital product design platform for creating interactive prototypes and mockups. |
-| [Milanote](https://milanote.com) | An online tool for organizing creative projects and collaborating with teams. |
-| [Airtable](https://airtable.com) | A flexible database and project management tool for organizing and collaborating on projects. |
-| [Quip](https://quip.com) | A collaborative document and spreadsheet tool for team collaboration. |
-| [Confluence](https://www.atlassian.com/software/confluence) | A collaboration tool for creating, sharing, and organizing content and projects. |
-| [Monday.com](https://monday.com) | A project management tool for organizing and tracking tasks and projects. |
-| [Dropbox Paper](https://www.dropbox.com/paper) | A collaborative document tool for creating and sharing content with teams. |
-| [ClickUp](https://clickup.com) | A project management tool for organizing and tracking tasks and projects. |
-| [ProofHub](https://www.proofhub.com) | A project management tool for organizing and managing tasks, projects, and team collaboration. |
-| [Ryver](https://ryver.com) | A collaboration platform for team communication, task management, and workflow automation. |
-| [Wrike](https://www.wrike.com) | A project management tool for organizing and managing tasks, projects, and team collaboration. |
-| [Hive](https://hive.com) | A project management tool for organizing and tracking tasks and projects. |
-| [Workfront](https://www.workfront.com) | A project management tool for organizing and managing tasks, projects, and team collaboration. |
-| [Flowdock](https://www.flowdock.com) | A collaboration platform for team communication, task management, and workflow automation. |
-| [Toggl Plan](https://toggl.com/plan) | A project management tool for organizing and tracking tasks and projects. |
-| [Workplace by Facebook](https://www.facebook.com/workplace) | A collaboration platform for team communication and project management. |
+| [Slack](https://slack.com) | Channel-based messaging with 2,400+ app integrations. Huddles for quick audio chats. |
+| [Trello](https://trello.com) | Visual kanban boards with drag-and-drop cards. Simple and free for small teams. |
+| [Asana](https://asana.com) | Timeline views, goals tracking, and workload management. Popular with marketing and design teams. |
+| [Jira](https://www.atlassian.com/software/jira) | Agile project tracking with sprints, backlogs, and detailed issue workflows for dev teams. |
+| [Basecamp](https://basecamp.com) | All-in-one project management with message boards, to-dos, and schedules. Flat pricing for unlimited users. |
+| [Miro](https://miro.com) | Infinite whiteboard for workshops, user story mapping, and real-time brainstorming. |
+| [Notion](https://www.notion.so) | Docs, wikis, databases, and project tracking in one flexible workspace. Template gallery included. |
+| [Microsoft Teams](https://www.microsoft.com/microsoft-teams) | Video meetings and chat integrated with Office 365. Standard for enterprise organizations. |
+| [Google Workspace](https://workspace.google.com) | Gmail, Docs, Sheets, and Drive with real-time collaboration. 15GB free storage. |
+| [Figma](https://www.figma.com) | Real-time multiplayer design with FigJam for whiteboarding and brainstorming sessions. |
+| [Zeplin](https://zeplin.io) | Design-to-code handoff with style guides, assets, and specs for developers automatically generated. |
+| [InVision](https://www.invisionapp.com) | Prototyping with Freehand whiteboard. Commenting and version history for design review. |
+| [Milanote](https://milanote.com) | Visual boards for creative projects — moodboards, storyboards, and brainstorms that look beautiful. |
+| [Airtable](https://airtable.com) | Spreadsheet-database hybrid with custom views, automations, and 50+ app integrations. |
+| [Quip](https://quip.com) | Salesforce-owned docs and spreadsheets with built-in chat and @mentions. |
+| [Confluence](https://www.atlassian.com/software/confluence) | Team wiki with page trees, templates, and Jira integration. Knowledge base standard. |
+| [Monday.com](https://monday.com) | Colorful work OS with automation recipes and 200+ templates for any workflow. |
+| [Dropbox Paper](https://www.dropbox.com/paper) | Minimal docs with timeline views and to-dos. Syncs with Dropbox file storage. |
+| [ClickUp](https://clickup.com) | Feature-rich PM tool with docs, whiteboards, goals, and time tracking in one platform. |
+| [ProofHub](https://www.proofhub.com) | All-in-one project management with proofing tools for reviewing designs and documents. |
+| [Ryver](https://ryver.com) | Team chat with built-in task management. Unlimited message history on all plans. |
+| [Wrike](https://www.wrike.com) | Enterprise work management with proofing, time tracking, and resource management. |
+| [Hive](https://hive.com) | Project management with email integration, time tracking, and AI-powered workflows. |
+| [Workfront](https://www.workfront.com) | Adobe's enterprise work management for marketing and creative operations at scale. |
+| [Flowdock](https://www.flowdock.com) | Developer-focused chat with threaded conversations and deep GitHub/Jira integrations. |
+| [Toggl Plan](https://toggl.com/plan) | Visual timeline planning with team workload views. From the makers of Toggl Track. |
+| [Workplace by Facebook](https://www.facebook.com/workplace) | Facebook's interface for enterprise communication with groups, video, and live streaming. |
 
 [Back to Top](#table-of-contents)
 
@@ -473,32 +481,32 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [99designs](https://99designs.com) | A platform for design contests, connecting designers with clients. |
-| [DesignCrowd](https://www.designcrowd.com) | A platform for design contests, connecting designers with clients. |
-| [Crowdspring](https://www.crowdspring.com) | A platform for design contests, connecting designers with clients. |
-| [LogoTournament](https://logotournament.com) | A platform for logo design contests, connecting designers with clients. |
-| [DesignContest](https://www.designcontest.com) | A platform for design contests, connecting designers with clients. |
-| [Hatchwise](https://www.hatchwise.com) | A platform for design contests, connecting designers with clients. |
-| [99Designs Studio](https://studio.99designs.com) | A platform for custom design projects and contests. |
-| [Designhill](https://www.designhill.com) | A platform for design contests, connecting designers with clients. |
-| [DesignQuote](https://www.designquote.net) | A platform for design contests, connecting designers with clients. |
-| [Freelancer](https://www.freelancer.com) | A platform for design contests, connecting designers with clients. |
-| [Guru](https://www.guru.com) | A platform for design contests, connecting designers with clients. |
-| [Upwork](https://www.upwork.com) | A platform for design contests, connecting designers with clients. |
-| [Toptal](https://www.toptal.com) | A platform for design contests, connecting designers with clients. |
-| [PeoplePerHour](https://www.peopleperhour.com) | A platform for design contests, connecting designers with clients. |
-| [Fiverr](https://www.fiverr.com) | A platform for design contests, connecting designers with clients. |
-| [Dribbble Freelance Projects](https://dribbble.com/freelance-projects) | A platform for design contests, connecting designers with clients. |
-| [Behance Jobs](https://www.behance.net/joblist) | A platform for design contests, connecting designers with clients. |
-| [DesignJobsBoard](https://www.designjobsboard.com) | A platform for design contests, connecting designers with clients. |
-| [If You Could Jobs](https://www.ifyoucouldjobs.com) | A platform for design contests, connecting designers with clients. |
-| [The Dots](https://the-dots.com) | A platform for design contests, connecting designers with clients. |
-| [Creativepool](https://creativepool.com) | A platform for design contests, connecting designers with clients. |
-| [Working Not Working](https://workingnotworking.com) | A platform for design contests, connecting designers with clients. |
-| [AngelList](https://angel.co/jobs) | A platform for design contests, connecting designers with clients. |
-| [Authentic Jobs](https://authenticjobs.com) | A platform for design contests, connecting designers with clients. |
-| [Krop](https://www.krop.com) | A platform for design contests, connecting designers with clients. |
-| [Coroflot](https://www.coroflot.com) | A platform for design contests, connecting designers with clients. |
+| [99designs](https://99designs.com) | Run design contests where multiple designers submit work, then pick your favorite. Popular for logos, branding, and web design. |
+| [DesignCrowd](https://www.designcrowd.com) | Crowdsourced design marketplace with over 1 million designers competing in logo, web, and graphic design contests. |
+| [Crowdspring](https://www.crowdspring.com) | Custom design and naming platform with guaranteed results and a money-back option if unsatisfied. |
+| [LogoTournament](https://logotournament.com) | Specialized logo design contest platform with vetted designers and full copyright transfer. |
+| [DesignContest](https://www.designcontest.com) | Host contests for logos, websites, and print designs with blind judging options and NDA protection. |
+| [Hatchwise](https://www.hatchwise.com) | Logo and naming contest platform offering unlimited revisions and full trademark rights. |
+| [99Designs Studio](https://studio.99designs.com) | Work directly with hand-picked designers on custom projects, an alternative to the contest model. |
+| [Designhill](https://www.designhill.com) | AI-powered logo maker alongside traditional design contests for logos, packaging, and merchandise. |
+| [DesignQuote](https://www.designquote.net) | Get quotes from pre-vetted design agencies and freelancers for branding and web projects. |
+| [Freelancer](https://www.freelancer.com) | Global freelance marketplace with design contests and hourly/fixed-price projects across all creative fields. |
+| [Guru](https://www.guru.com) | Freelance platform with workroom collaboration tools, escrow payments, and design job postings. |
+| [Upwork](https://www.upwork.com) | The largest freelance marketplace for hiring designers by the hour or project with built-in time tracking. |
+| [Toptal](https://www.toptal.com) | Elite network of the top 3% of freelance designers, vetted through a rigorous screening process. |
+| [PeoplePerHour](https://www.peopleperhour.com) | UK-based freelance platform connecting businesses with designers through fixed-price offers or hourly work. |
+| [Fiverr](https://www.fiverr.com) | Marketplace for creative services starting at $5, with designers offering packaged services at set prices. |
+| [Dribbble Freelance Projects](https://dribbble.com/freelance-projects) | Job board from the Dribbble community, featuring freelance opportunities from design-focused companies. |
+| [Behance Jobs](https://www.behance.net/joblist) | Adobe's creative job board featuring full-time and freelance positions at top agencies and brands. |
+| [DesignJobsBoard](https://www.designjobsboard.com) | Curated job listings for UI/UX, graphic, and product design roles at startups and enterprises. |
+| [If You Could Jobs](https://www.ifyoucouldjobs.com) | Creative industry job board based in the UK, featuring roles at agencies, studios, and in-house teams. |
+| [The Dots](https://the-dots.com) | Professional network for creatives with job listings, portfolio hosting, and collaboration tools. |
+| [Creativepool](https://creativepool.com) | Global creative industry network with job listings, awards, and portfolio showcases. |
+| [Working Not Working](https://workingnotworking.com) | Invite-only network connecting top creative talent with brands like Google, Nike, and Spotify. |
+| [AngelList](https://angel.co/jobs) | Startup job platform with equity-based compensation options and direct founder connections. |
+| [Authentic Jobs](https://authenticjobs.com) | Long-running job board focused on web, design, and creative positions at quality companies. |
+| [Krop](https://www.krop.com) | Creative industry job board and portfolio hosting for designers, developers, and marketers. |
+| [Coroflot](https://www.coroflot.com) | Design job board and portfolio platform with salary benchmarking tools for the design industry. |
 
 [Back to Top](#table-of-contents)
 
@@ -506,31 +514,31 @@ You can find more information on how to contribute [here](https://github.com/rei
 
 | Resource | Description |
 |----------|-------------|
-| [Sketch](https://www.sketch.com) | A popular design tool for creating user interfaces and prototypes. |
-| [Adobe XD](https://www.adobe.com/products/xd.html) | A vector-based tool for designing and prototyping user experiences for web and mobile apps. |
-| [Figma](https://www.figma.com) | A collaborative interface design tool for creating prototypes and mockups. |
-| [InVision Studio](https://www.invisionapp.com/studio) | A digital product design platform for creating interactive prototypes and mockups. |
-| [Affinity Designer](https://affinity.serif.com/en-us/designer/) | A vector graphics editor for creating user interfaces and illustrations. |
-| [CorelDRAW](https://www.coreldraw.com) | A vector graphics editor for creating user interfaces and illustrations. |
-| [Gravit Designer](https://www.designer.io) | A vector graphics editor for creating user interfaces and illustrations. |
-| [Canva](https://www.canva.com) | A graphic design tool for creating social media graphics, presentations, posters, and more. |
-| [Procreate](https://procreate.art) | A digital illustration app for creating artwork on iPad. |
-| [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | A vector graphics editor for creating user interfaces and illustrations. |
-| [GIMP](https://www.gimp.org) | A free and open-source raster graphics editor for creating and editing images. |
-| [Blender](https://www.blender.org) | A free and open-source 3D creation suite for modeling, animation, and rendering. |
-| [Inkscape](https://inkscape.org) | A free and open-source vector graphics editor for creating user interfaces and illustrations. |
-| [Krita](https://krita.org) | A free and open-source digital painting software for creating artwork and illustrations. |
-| [Vectr](https://vectr.com) | A free vector graphics editor for creating user interfaces and illustrations. |
-| [Pencil2D](https://www.pencil2d.org) | A free and open-source animation software for creating hand-drawn animations. |
-| [Photopea](https://www.photopea.com) | A free online photo editor for creating and editing images. |
-| [Pixlr](https://pixlr.com) | A free online photo editor for creating and editing images. |
-| [Clip Studio Paint](https://www.clipstudio.net/en) | A digital painting software for creating artwork and illustrations. |
-| [Affinity Photo](https://affinity.serif.com/en-us/photo/) | A raster graphics editor for creating and editing images. |
-| [Paint.NET](https://www.getpaint.net) | A free raster graphics editor for creating and editing images. |
-| [Autodesk SketchBook](https://www.sketchbook.com) | A digital painting and drawing software for creating artwork and illustrations. |
-| [MediBang Paint](https://medibangpaint.com) | A free digital painting software for creating artwork and illustrations. |
-| [Tayasui Sketches](https://tayasui.com/sketches) | A digital painting app for creating artwork on iPad. |
-| [Mischief](https://www.madewithmischief.com) | A digital painting software for creating artwork and illustrations. |
-| [Sketchable](https://www.sketchable.app) | A digital painting app for creating artwork on Windows devices. |
-| [Paintstorm Studio](https://www.paintstormstudio.com) | A digital painting software for creating artwork and illustrations. |
-| [Black Ink](https://www.bleank.com) | A digital painting software for creating abstract artwork and illustrations. |
+| [Sketch](https://www.sketch.com) | Mac-native UI design tool beloved for its plugin ecosystem and symbols system. Industry standard for app design. |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Adobe's answer to Figma with seamless Creative Cloud integration and voice prototyping features. |
+| [Figma](https://www.figma.com) | Browser-based collaborative design tool with real-time multiplayer editing. The industry standard for product teams. |
+| [InVision Studio](https://www.invisionapp.com/studio) | Desktop design tool with advanced animation timeline and seamless handoff to InVision prototypes. |
+| [Affinity Designer](https://affinity.serif.com/en-us/designer/) | One-time purchase alternative to Illustrator with persona switching between vector and raster modes. |
+| [CorelDRAW](https://www.coreldraw.com) | Professional vector graphics suite popular for print design, signage, and technical illustration since 1989. |
+| [Gravit Designer](https://www.designer.io) | Cross-platform vector design app with a free tier, works in-browser and as a desktop app. |
+| [Canva](https://www.canva.com) | Drag-and-drop design platform with thousands of templates for non-designers and quick social media assets. |
+| [Procreate](https://procreate.art) | iPad illustration app with natural brush engine, animation assist, and Apple Pencil optimization. |
+| [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | The industry-standard vector graphics editor for logos, icons, typography, and complex illustrations. |
+| [GIMP](https://www.gimp.org) | Free Photoshop alternative with extensive plugin support for photo manipulation and graphic design. |
+| [Blender](https://www.blender.org) | Free 3D creation suite covering modeling, rigging, animation, rendering, compositing, and video editing. |
+| [Inkscape](https://inkscape.org) | Free open-source vector editor with SVG as native format, great for web graphics and laser cutting. |
+| [Krita](https://krita.org) | Free digital painting program designed for concept artists, illustrators, and comic creators. |
+| [Vectr](https://vectr.com) | Simple free vector editor with real-time collaboration, runs in browser or as desktop app. |
+| [Pencil2D](https://www.pencil2d.org) | Lightweight open-source tool for traditional hand-drawn 2D animation with bitmap and vector workflows. |
+| [Photopea](https://www.photopea.com) | Free browser-based editor supporting PSD, XCF, Sketch files — no installation needed. |
+| [Pixlr](https://pixlr.com) | AI-powered online photo editor with one-click background removal and design templates. |
+| [Clip Studio Paint](https://www.clipstudio.net/en) | Industry-leading software for manga, comics, and animation with specialized panel and speech bubble tools. |
+| [Affinity Photo](https://affinity.serif.com/en-us/photo/) | Professional photo editing with RAW processing, HDR merge, and focus stacking. One-time purchase. |
+| [Paint.NET](https://www.getpaint.net) | Windows image editor balancing simplicity with powerful features like layers and special effects. |
+| [Autodesk SketchBook](https://www.sketchbook.com) | Now free sketching app with a clean interface designed for quick ideation and concept art. |
+| [MediBang Paint](https://medibangpaint.com) | Free cross-platform comic and illustration tool with cloud storage and 800+ free tones/brushes. |
+| [Tayasui Sketches](https://tayasui.com/sketches) | Realistic drawing app with watercolor, oil paint, and pencil tools that mimic real media. |
+| [Mischief](https://www.madewithmischief.com) | Infinite canvas sketching app with resolution-independent strokes — zoom endlessly without pixelation. |
+| [Sketchable](https://www.sketchable.app) | Windows-optimized drawing app with excellent pen pressure support and customizable workspace. |
+| [Paintstorm Studio](https://www.paintstormstudio.com) | Affordable digital painting software with a powerful brush engine and dynamic brush settings. |
+| [Black Ink](https://www.bleank.com) | Node-based brush controller for creating unique procedural and generative artwork effects. |
