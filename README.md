@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=180&section=header&text=Design%20Resources&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=A%20curated%20collection%20of%20resources%20for%20designers%20and%20developers&descAlignY=55&descSize=16" width="100%"/>
+# Design Resources
+
+A curated collection of resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
 ![Resources](https://img.shields.io/badge/Resources-442-purple.svg)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow.svg)](https://buymeacoffee.com/reinaldosimoes)
-
-**Discover tools, assets, and inspiration to craft your next project.**
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
@@ -15,56 +14,17 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 About the Curator
-
-Hey! I'm **Reinaldo Simões**, a developer passionate about building great digital experiences. I created this list to help other creators discover quality resources.
-
-[![Website](https://img.shields.io/badge/🌐_reinaldo.pt-000?style=flat)](https://reinaldo.pt)
-[![Email](https://img.shields.io/badge/📧_Contact-000?style=flat)](mailto:me@reinaldo.pt)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/reinaldosimoes)
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Support This Project
-
-If this list helped you, consider buying me a coffee! Your support keeps this resource updated and growing.
-
-<a href="https://buymeacoffee.com/reinaldosimoes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
-
-**Want to feature your tool?** Check out [sponsored placements](#-sponsored-resources) — transparent and separate from the curated list.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📚 Table of Contents
 
 | | | |
 |:--|:--|:--|
-| [⭐ Sponsored Resources](#-sponsored-resources) | [🔤 Fonts](#-fonts) | [🎨 Icons](#-icons) |
-| [✨ Lottie Animations](#-lottie-animations) | [📷 Photos](#-photos) | [🎬 Videos](#-videos) |
-| [🎵 Music](#-music) | [🖼️ Illustrations](#-illustrations) | [📐 Vectors](#-vectors) |
-| [🌈 Backgrounds & Patterns](#-backgrounds--patterns) | [🎨 Colors](#-colors) | [📱 Mockups](#-mockups) |
-| [📋 Design Systems](#-design-systems) | [🧩 UI Kits](#-ui-kits) | [💡 Design Inspiration](#-design-inspiration) |
-| [📝 Design Blogs](#-design-blogs) | [📖 Learning Resources](#-learning-resources) | [🛠️ Prototyping Tools](#-prototyping-tools) |
-| [🤝 Collaboration Tools](#-collaboration-tools) | [🏆 Design Contests](#-design-contests) | [🔧 Design Tools](#-design-tools) |
-
-## ⭐ Sponsored Resources
-
-> **Transparency note:** This section contains paid placements. All sponsors are vetted for quality and relevance to the design community. Sponsored listings are clearly separated from the organically curated resources below.
-
-| Sponsor | Description |
-|---------|-------------|
-| *Your tool here* | Interested in reaching thousands of designers and developers? [Get in touch](mailto:me@reinaldo.pt) |
-
-[Back to Top](#-table-of-contents)
+| [🔤 Fonts](#-fonts) | [🎨 Icons](#-icons) | [✨ Lottie Animations](#-lottie-animations) |
+| [📷 Photos](#-photos) | [🎬 Videos](#-videos) | [🎵 Music](#-music) |
+| [🖼️ Illustrations](#-illustrations) | [📐 Vectors](#-vectors) | [🌈 Backgrounds & Patterns](#-backgrounds--patterns) |
+| [🎨 Colors](#-colors) | [📱 Mockups](#-mockups) | [📋 Design Systems](#-design-systems) |
+| [🧩 UI Kits](#-ui-kits) | [💡 Design Inspiration](#-design-inspiration) | [📝 Design Blogs](#-design-blogs) |
+| [📖 Learning Resources](#-learning-resources) | [🛠️ Prototyping Tools](#-prototyping-tools) | [🤝 Collaboration Tools](#-collaboration-tools) |
+| [🏆 Design Contests](#-design-contests) | [🔧 Design Tools](#-design-tools) | |
 
 ## 🔤 Fonts
 
@@ -647,20 +607,3 @@ If this list helped you, consider buying me a coffee! Your support keeps this re
 
 [Back to Top](#-table-of-contents)
 
----
-
-<div align="center">
-
-### 🙏 Thank You
-
-Thanks for checking out this collection! If you found it helpful, please consider:
-
-⭐ **Starring this repo** · ☕ [**Buying me a coffee**](https://buymeacoffee.com/reinaldosimoes) · 🔀 **Sharing with others**
-
-<br>
-
-Made with ❤️ by [Reinaldo Simões](https://reinaldo.pt)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
