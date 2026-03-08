@@ -69,6 +69,7 @@ A curated collection of resources for designers and developers.
 | [Tabler Icons](https://tabler.io/icons) | Over 5,000 free MIT-licensed SVG icons with consistent stroke widths and customizable sizes. |
 | [Iconoir](https://iconoir.com) | One of the largest open-source icon libraries with 1,500+ SVG icons, available as React and Vue components. |
 | [Remix Icon](https://remixicon.com) | A set of open-source neutral-style system symbols for designers and developers. |
+| [Woopicx](https://woopicx.com) | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets across 80+ categories. |
 
 [Back to Top](#-table-of-contents)
 
