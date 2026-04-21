@@ -6,7 +6,7 @@ A curated collection of resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
-![Resources](https://img.shields.io/badge/Resources-442-purple.svg)
+![Resources](https://img.shields.io/badge/Resources-443-purple.svg)
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
@@ -36,6 +36,7 @@ A curated collection of resources for designers and developers.
 | [Use & Modify](https://usemodify.com) | Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces. Open source licenses make them free to use and modify. |
 | [Font Fabric](https://www.fontfabric.com/free-fonts) | A digital type foundry crafting retail fonts and custom typography for various brands. |
 | [Font Squirrel](https://www.fontsquirrel.com) | Font Squirrel scours the internet for high quality, legitimately free fonts. |
+| [FontsWiki](https://fontswiki.com) | Font discovery site with free alternatives to commercial typefaces and source-backed fonts-in-use examples. |
 | [FreeFaces](https://www.freefaces.gallery/) | Curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs. |
 | [Lost Type Co-op](https://losttype.com) | Collaborative digital type foundry, distributing typefaces from designers around the world. |
 | [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/) | A showcase of Google Fonts and their typographic features in use. |
@@ -606,4 +607,3 @@ A curated collection of resources for designers and developers.
 | [Napkin AI](https://www.napkin.ai) | Transform text into visuals instantly — create diagrams, flowcharts, and infographics with AI. |
 
 [Back to Top](#-table-of-contents)
-
