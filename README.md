@@ -32,6 +32,7 @@ A curated collection of resources for designers and developers.
 |----------|-------------|
 | [Best Free Fonts](https://bestfreefonts.com) | A gallery of truly free fonts with SIL Open Font License. Each typeface has its own page with interactive font tester and character map. |
 | [DaFont](https://www.dafont.com) | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author, or by popularity. |
+- [FontBoxDL](https://fontboxdl.com/) - free font library with 60,000+ typefaces, instant download with no signup, plus font tools (fancy text, font-to-SVG for Cricut)
 | [Google Fonts](https://fonts.google.com) | Library of more than a thousand free and open-source font families, an interactive web directory for browsing the library, and APIs for using the fonts via CSS and Android. |
 | [Use & Modify](https://usemodify.com) | Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces. Open source licenses make them free to use and modify. |
 | [Font Fabric](https://www.fontfabric.com/free-fonts) | A digital type foundry crafting retail fonts and custom typography for various brands. |
