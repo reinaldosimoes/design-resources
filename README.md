@@ -118,6 +118,7 @@ A curated collection of resources for designers and developers.
 | [Stable Diffusion](https://stability.ai) | Open-source AI image generation model that can run locally or via various hosted platforms. |
 | [Magnific AI](https://magnific.ai) | AI-powered image upscaler and enhancer that adds realistic detail while enlarging images. |
 | [Krea AI](https://www.krea.ai) | Real-time AI image generation and enhancement with creative tools for designers. |
+| [igly.ai](https://igly.ai) | AI image editor for background removal, inpainting, upscaling, and generative fill workflows. |
 
 [Back to Top](#-table-of-contents)
 
