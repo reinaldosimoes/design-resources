@@ -196,6 +196,7 @@ A curated collection of resources for designers and developers.
 | [Illustroke](https://illustroke.com) | AI tool that generates SVG vector illustrations from text prompts — preview for free, download requires payment. |
 | [Recraft](https://www.recraft.ai) | AI-powered design tool for creating and editing vector art, icons, and illustrations in consistent styles. |
 | [Kittl](https://www.kittl.com) | AI-enhanced design platform for creating logos, illustrations, and print-ready designs with pro templates. |
+| [Visual Hub](https://visual-hub.net) | Free AI-generated illustrations for business documents, blogs, IT, and education. Free for commercial use with no attribution required. |
 
 [Back to Top](#-table-of-contents)
 
