@@ -6,7 +6,7 @@ A curated collection of resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
-![Resources](https://img.shields.io/badge/Resources-443-purple.svg)
+![Resources](https://img.shields.io/badge/Resources-444-purple.svg)
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
@@ -321,6 +321,7 @@ A curated collection of resources for designers and developers.
 | [Clarity](https://clarity.design) | VMware's open-source design system for enterprise applications. |
 | [DesignSystem.codes](https://www.designsystem.codes) | A collection of resources and tools for creating design systems. |
 | [Elastic UI](https://elastic.github.io/eui) | Elastic's design system for creating engaging user experiences. |
+| [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) | Free MIT-licensed contract for design tokens, component states, responsive behavior, accessibility, motion, and production review in AI-assisted interface projects. |
 
 [Back to Top](#-table-of-contents)
 
