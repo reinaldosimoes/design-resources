@@ -6,7 +6,7 @@ A curated collection of resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
-![Resources](https://img.shields.io/badge/Resources-443-purple.svg)
+![Resources](https://img.shields.io/badge/Resources-444-purple.svg)
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
@@ -572,6 +572,7 @@ A curated collection of resources for designers and developers.
 | [InVision Studio](https://www.invisionapp.com/studio) | Desktop design tool with advanced animation timeline and seamless handoff to InVision prototypes. |
 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | One-time purchase alternative to Illustrator with persona switching between vector and raster modes. |
 | [CorelDRAW](https://www.coreldraw.com) | Professional vector graphics suite popular for print design, signage, and technical illustration since 1989. |
+| [DeerImage](https://deerimage.com/) | Free browser-based toolkit for image compression, conversion, resizing, ID photos, signatures, and drawing without sign-up. |
 | [Gravit Designer](https://www.designer.io) | Cross-platform vector design app with a free tier, works in-browser and as a desktop app. |
 | [Canva](https://www.canva.com) | Drag-and-drop design platform with thousands of templates for non-designers and quick social media assets. |
 | [Procreate](https://procreate.art) | iPad illustration app with natural brush engine, animation assist, and Apple Pencil optimization. |
