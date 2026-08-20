@@ -70,6 +70,7 @@ A curated collection of resources for designers and developers.
 | [Tabler Icons](https://tabler.io/icons) | Over 5,000 free MIT-licensed SVG icons with consistent stroke widths and customizable sizes. |
 | [Iconoir](https://iconoir.com) | One of the largest open-source icon libraries with 1,500+ SVG icons, available as React and Vue components. |
 | [Remix Icon](https://remixicon.com) | A set of open-source neutral-style system symbols for designers and developers. |
+| [Thridy](https://thridy.com) | A library of 13,000+ free 3D icons in one consistent style, downloadable as HD transparent PNGs. Free for personal and commercial use, with no attribution or signup required. |
 
 [Back to Top](#-table-of-contents)
 
