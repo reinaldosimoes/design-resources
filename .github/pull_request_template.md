@@ -4,6 +4,7 @@
 - [ ] My fork is up to date with the main repository.
 - [ ] I have created a new branch for this pull request.
 - [ ] My branch is based on the latest main branch.
+- [ ] New resource entries use the `- [Name](URL) - Description.` bullet format inside the appropriate category.
 
 ## Change Type
 

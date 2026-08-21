@@ -42,16 +42,16 @@ These restrictions apply to new resource submissions. Fixes to existing entries,
 
 ## Resource Template
 
-Please use the following template when adding a new resource. Add a new row to the appropriate section's table:
+Please use the following template when adding a new resource. Add a new bullet to the appropriate category's collapsible list:
 
 ```markdown
-| [Title](https://www.title.com) | A brief description of the resource, highlighting its main features and benefits. |
+- [Title](https://www.title.com) - A brief description of the resource, highlighting its main features and benefits.
 ```
 
 ### Example
 
 ```markdown
-| [Unsplash](https://unsplash.com) | Beautiful, free images and photos that you can download and use for any project. Better than any royalty-free or stock photos. |
+- [Unsplash](https://unsplash.com) - Beautiful, free images and photos that you can download and use for any project. Better than any royalty-free or stock photos.
 ```
 
 ## Guidelines
@@ -61,8 +61,8 @@ Please use the following template when adding a new resource. Add a new row to t
 - The resource should include a small description, highlighting its main features and benefits.
 - Ensure the URL is correct and links directly to the resource.
 - Check for duplicates before adding a new resource.
-- Maintain alphabetical order within each section (sort by resource name).
-- Add the new row in the correct alphabetical position within the table.
+- Follow the existing ordering within the category.
+- Add the new bullet inside the category's `<details>` block.
 - Complete the affiliation and promotion attestations in the pull request template.
 
 ## Need Help?
