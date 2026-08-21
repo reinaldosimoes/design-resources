@@ -2,6 +2,22 @@
 
 Thank you for considering contributing to this project! Your contributions help make this resource better for everyone.
 
+## Resource Submission Eligibility
+
+We welcome independent resource recommendations, corrections to existing entries, documentation improvements, and repository maintenance.
+
+New resource submissions are eligible only when all of the following are true:
+
+- You do not own, operate, work for, represent, or have a financial interest in the resource.
+- You are not being paid or otherwise compensated to promote the resource.
+- The submission is not part of automated or bulk outreach across curated repositories.
+- You have personally evaluated the resource and can explain its value to this collection.
+- You disclose any AI assistance used to prepare the contribution and remain responsible for its accuracy.
+
+Responsible AI assistance with writing or formatting is allowed. Using AI agents or automation to find repositories and mass-submit promotional entries is not allowed.
+
+These restrictions apply to new resource submissions. Fixes to existing entries, documentation improvements, and repository maintenance remain welcome from all contributors.
+
 ## How to Contribute
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of the repository page.
@@ -40,6 +56,7 @@ Please use the following template when adding a new resource. Add a new row to t
 
 ## Guidelines
 
+- Confirm that your submission meets the resource eligibility requirements above.
 - The resource title should match the website's title.
 - The resource should include a small description, highlighting its main features and benefits.
 - Ensure the URL is correct and links directly to the resource.
@@ -47,6 +64,7 @@ Please use the following template when adding a new resource. Add a new row to t
 - Maintain alphabetical order within each section (sort by resource name).
 - Add the new row in the correct alphabetical position within the table.
 - **Update the resource count**: When adding new resources, update the count in the README header (both the badge and the description text at the top of the file).
+- Complete the affiliation and promotion attestations in the pull request template.
 
 ## Need Help?
 

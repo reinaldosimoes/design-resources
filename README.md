@@ -12,6 +12,8 @@ A curated collection of resources for designers and developers.
 
 </div>
 
+Independent contributions are welcome. Resource submissions must come from people who are not affiliated with or paid to promote the resource, and must not be part of an automated or bulk promotional campaign. See the [contribution guidelines](CONTRIBUTING.md) for details.
+
 ---
 
 ## 📚 Table of Contents
