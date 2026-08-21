@@ -2,16 +2,18 @@
 
 # Design Resources
 
-A curated collection of resources for designers and developers.
+A quality-first, human-reviewed collection of free resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
+⭐ **Useful? [Star this repository](https://github.com/reinaldosimoes/design-resources) to find it again.**
+
 </div>
 
-Independent contributions are welcome. Resource submissions must come from people who are not affiliated with or paid to promote the resource, and must not be part of an automated or bulk promotional campaign. See the [contribution guidelines](CONTRIBUTING.md) for details.
+Independent contributions are welcome. Resources are selected for usefulness, quality, and continued availability, not list size. Resource submissions must come from people who are not affiliated with or paid to promote the resource, and must not be part of an automated or bulk promotional campaign. See the [contribution guidelines](CONTRIBUTING.md) for details.
 
 ---
 

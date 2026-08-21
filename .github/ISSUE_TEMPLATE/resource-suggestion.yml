@@ -1,0 +1,55 @@
+name: Suggest an independent resource
+description: Recommend a resource you have personally evaluated and are not affiliated with.
+title: "Resource suggestion: "
+labels: ["resource suggestion"]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Resource name and canonical URL.
+      placeholder: Resource name - https://example.com
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Proposed category
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is it worth including?
+      description: Describe your firsthand experience, what it does well, and who benefits.
+    validations:
+      required: true
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI assistance
+      description: Responsible writing assistance is allowed. Autonomous promotional submissions are not.
+      options:
+        - No AI assistance was used
+        - AI was used only to improve the writing
+        - Other responsible AI assistance was used and is disclosed below
+    validations:
+      required: true
+  - type: textarea
+    id: ai_disclosure
+    attributes:
+      label: AI disclosure details
+      description: Required when you selected the third option above.
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility attestations
+      options:
+        - label: I do not own, work for, represent, or have another affiliation with this resource.
+          required: true
+        - label: I have not been paid or otherwise compensated to promote this resource.
+          required: true
+        - label: This suggestion is not part of automated or bulk outreach across curated repositories.
+          required: true
+        - label: I personally evaluated the resource and remain accountable for this suggestion.
+          required: true

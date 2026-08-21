@@ -1,0 +1,44 @@
+name: Report a broken link
+description: Flag an unavailable or redirected resource already in the list.
+title: "Broken link: "
+labels: ["broken link"]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Name and current URL of the affected entry.
+      placeholder: Resource name - https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What happened?
+      options:
+        - The page is unavailable
+        - The domain redirects somewhere unrelated
+        - The resource is no longer free
+        - The resource appears abandoned or unsafe
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Which README category contains the resource?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details or replacement
+      description: Include a verified replacement URL if one exists.
+  - type: checkboxes
+    id: verified
+    attributes:
+      label: Verification
+      options:
+        - label: I personally checked the link before submitting this report.
+          required: true

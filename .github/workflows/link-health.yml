@@ -1,0 +1,88 @@
+name: Resource link health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v7.0.1
+
+      - name: Check Markdown links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >-
+            --root-dir "$(pwd)"
+            --no-progress
+            --max-retries 3
+            --timeout 20
+            --accept 100..=103,200..=299,403,429
+            './**/*.md'
+          fail: false
+          format: markdown
+          jobSummary: true
+          output: lychee/results.md
+
+      - name: Maintain the link-health issue
+        if: always()
+        uses: actions/github-script@v9.0.0
+        env:
+          LYCHEE_EXIT_CODE: ${{ steps.lychee.outputs.exit_code }}
+          RESULTS_PATH: lychee/results.md
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const label = 'automated-link-check';
+            const title = '[maintenance] Automated link check';
+            const hasFailures = process.env.LYCHEE_EXIT_CODE !== '0';
+
+            try {
+              await github.rest.issues.getLabel({ owner, repo, name: label });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+              await github.rest.issues.createLabel({
+                owner, repo, name: label, color: 'D73A4A',
+                description: 'Created and maintained by the scheduled link checker.'
+              });
+            }
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner, repo, state: 'open', labels: label, per_page: 10
+            });
+            const existing = issues.find(issue => issue.title === title);
+
+            if (hasFailures) {
+              const report = fs.existsSync(process.env.RESULTS_PATH)
+                ? fs.readFileSync(process.env.RESULTS_PATH, 'utf8').trim()
+                : 'The link checker failed without producing a report.';
+              const body = [
+                'The weekly resource-link check found URLs that need human review.',
+                '', report.slice(0, 60000), '',
+                `_Workflow run: ${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId}_`
+              ].join('\n');
+
+              if (existing) {
+                await github.rest.issues.update({ owner, repo, issue_number: existing.number, body });
+              } else {
+                await github.rest.issues.create({ owner, repo, title, body, labels: [label] });
+              }
+            } else if (existing) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: existing.number,
+                body: 'The latest scheduled check found no broken links, so this maintenance issue is closing automatically.'
+              });
+              await github.rest.issues.update({
+                owner, repo, issue_number: existing.number,
+                state: 'closed', state_reason: 'completed'
+              });
+            }

@@ -1,0 +1,26 @@
+name: Suggest a category improvement
+description: Identify an area where the collection could be more useful or better organized.
+title: "Category improvement: "
+labels: ["curation"]
+body:
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      placeholder: Fonts, icons, prototyping tools, or a proposed category
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: What is missing or unclear?
+      description: Describe the user need or organizational problem, not a product promotion.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Suggested improvement
+      description: Explain what would make this part of the collection more useful.
+    validations:
+      required: true
