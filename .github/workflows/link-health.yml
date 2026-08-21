@@ -27,7 +27,7 @@ jobs:
             --timeout 20
             --method get
             --accept 100..=103,200..=399,401,403,429
-            --exclude '^https://(business\.)?adobe\.com/'
+            --exclude '^https://([a-z0-9-]+\.)?adobe\.com/'
             --exclude '^https://gemini\.google\.com/'
             './**/*.md'
           fail: false
