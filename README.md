@@ -1,6 +1,6 @@
 <div align="center">
 
-# Design Resources
+# ![Design Resources](assets/social-preview.png)
 
 A quality-first, human-reviewed collection of free resources for designers and developers.
 
