@@ -6,7 +6,6 @@ A curated collection of resources for designers and developers.
 
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](https://github.com/reinaldosimoes/design-resources/pulls)
 [![Fork it!](https://img.shields.io/badge/Fork%20it!-green.svg)](https://github.com/reinaldosimoes/design-resources/fork)
-![Resources](https://img.shields.io/badge/Resources-443-purple.svg)
 
 [Contribute](https://github.com/reinaldosimoes/design-resources/pulls) · [Report Issue](https://github.com/reinaldosimoes/design-resources/issues) · [Request Resource](https://github.com/reinaldosimoes/design-resources/issues/new)
 
@@ -250,7 +249,6 @@ Independent contributions are welcome. Resource submissions must come from peopl
 
 | Resource | Description |
 |----------|-------------|
-| [Colorlab](https://getcolorlab.com) | Find your perfect Color Palette easily! Explore, create, and save beautiful colors perfect for any project. Whether you're working on your website or refreshing a mobile app design, Colorlab is the tool you need to get colors right! |
 | [Adobe Color](https://color.adobe.com) | Probably the best tool around when it comes to creating a color theme for your application. You can create yours or check palettes uploaded by other users. |
 | [2 Color Combinations](https://2colors.colorion.co) | Provides you different color combinations to be used on your application. |
 | [Coolors](https://coolors.co) | Generate perfect color combinations for your designs. |

@@ -63,7 +63,6 @@ Please use the following template when adding a new resource. Add a new row to t
 - Check for duplicates before adding a new resource.
 - Maintain alphabetical order within each section (sort by resource name).
 - Add the new row in the correct alphabetical position within the table.
-- **Update the resource count**: When adding new resources, update the count in the README header (both the badge and the description text at the top of the file).
 - Complete the affiliation and promotion attestations in the pull request template.
 
 ## Need Help?
