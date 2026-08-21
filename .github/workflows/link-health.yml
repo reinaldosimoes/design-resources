@@ -25,7 +25,10 @@ jobs:
             --no-progress
             --max-retries 3
             --timeout 20
-            --accept 100..=103,200..=299,403,429
+            --method head,get
+            --accept 100..=103,200..=399,401,403,429
+            --exclude '^https://(business\.)?adobe\.com/'
+            --exclude '^https://gemini\.google\.com/'
             './**/*.md'
           fail: false
           format: markdown

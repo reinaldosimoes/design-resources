@@ -203,7 +203,6 @@ Independent contributions are welcome. Resources are selected for usefulness, qu
 - [Skribbl](https://weareskribbl.com) - Hand-drawn illustrations for your projects, available in a variety of categories.
 - [Ouch!](https://icons8.com/ouch) - A collection of free illustrations by Icons8, available in various styles and categories.
 - [Absurd Design](https://absurd.design) - Surrealist illustrations for creative projects, available under a free personal use license.
-- [Stubborn](https://stubborn.fun) - A collection of free vector illustrations for commercial use.
 - [Patterns.page](https://patterns.page/) - A creative toolbox with patterns, illustrations, and customizable design assets.
 - [Illustroke](https://illustroke.com) - AI tool that generates SVG vector illustrations from text prompts — preview for free, download requires payment.
 - [Recraft](https://www.recraft.ai) - AI-powered design tool for creating and editing vector art, icons, and illustrations in consistent styles.
@@ -557,7 +556,7 @@ Independent contributions are welcome. Resources are selected for usefulness, qu
 - [Crowdspring](https://www.crowdspring.com) - Custom design and naming platform with guaranteed results and a money-back option if unsatisfied.
 - [LogoTournament](https://logotournament.com) - Specialized logo design contest platform with vetted designers and full copyright transfer.
 - [DesignContest](https://www.designcontest.com) - Host contests for logos, websites, and print designs with blind judging options and NDA protection.
-- [Hatchwise](https://www.hatchwise.com) - Logo and naming contest platform offering unlimited revisions and full trademark rights.
+- [Hatchwise](https://www.hatchwise.com/design-contests) - Logo and naming contest platform offering unlimited revisions and full trademark rights.
 - [99designs Pro](https://99designs.com/pro) - Managed design services for businesses that need ongoing creative work.
 - [Designhill](https://www.designhill.com) - AI-powered logo maker alongside traditional design contests for logos, packaging, and merchandise.
 - [Freelancer](https://www.freelancer.com) - Global freelance marketplace with design contests and hourly/fixed-price projects across all creative fields.
