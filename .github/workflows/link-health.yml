@@ -25,7 +25,7 @@ jobs:
             --no-progress
             --max-retries 3
             --timeout 20
-            --method head,get
+            --method get
             --accept 100..=103,200..=399,401,403,429
             --exclude '^https://(business\.)?adobe\.com/'
             --exclude '^https://gemini\.google\.com/'
@@ -65,9 +65,10 @@ jobs:
             const existing = issues.find(issue => issue.title === title);
 
             if (hasFailures) {
-              const report = fs.existsSync(process.env.RESULTS_PATH)
+              const rawReport = fs.existsSync(process.env.RESULTS_PATH)
                 ? fs.readFileSync(process.env.RESULTS_PATH, 'utf8').trim()
-                : 'The link checker failed without producing a report.';
+                : '';
+              const report = rawReport || 'The link checker failed without producing a report.';
               const body = [
                 'The weekly resource-link check found URLs that need human review.',
                 '', report.slice(0, 60000), '',
